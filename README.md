@@ -4,6 +4,7 @@ dae三维建筑模型切片
 
 # License
 1. 本代码所有权：Xiang Zeng
+
 Copyright (c) 2017 Xiang Zeng
 
 2. 思路来源于参考文献：
