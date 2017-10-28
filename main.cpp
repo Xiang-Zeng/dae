@@ -1,3 +1,8 @@
+/*---------------
+Copyright (c) 2017 Xiang Zeng
+
+-----------------*/
+
 #include <iostream>
 #include "lib/SimpleCOLLADA.hpp"
 #include <vector>
