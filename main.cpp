@@ -20,7 +20,7 @@ int Cut(Vertex * p0,Vertex * p1,Vertex * p2,
 //将点p0推入v的末端。如果p0与v的最后两点在同一直线，则不推入。
 void InsertPoint(vector<Vertex> &v, Vertex *p0);
 
-//获取线段和给定标高z的交点
+//获取线段和给定标高z的交点。p0, p1不能在同一标高。
 Vertex * GetIntersect(Vertex * p0, Vertex * p1, double z);
 
 int main(int argc, char *argv[])
@@ -28,13 +28,25 @@ int main(int argc, char *argv[])
     vector<Vertex> plan2d;    //水平面切建筑得到的平面多边形
     plan2d.clear();
     plan2d.reserve(4);
-    const double elevation=1.0; //切建筑的水平面的标高
+    const double h_ratio=0.1; //切建筑的水平面的标高占总高的比例
 
     Model model("san.dae");
     ModelNode *node=model.modelNodes[0];
 
-    int not=node->getNumOfTriangles();
-    for(int i=0;i<not;i++)
+    double minz=99999999999;
+    double maxz=-9999999999;
+    int nov=node->getNumOfVertices();
+    ofstream f2("all.txt");
+    for (int i=0;i<nov;i++)
+    {
+        f2<<node->getVertex(i)->x<<"\t"<<node->getVertex(i)->y<<endl;
+        if(minz>node->getVertex(i)->z)  minz=node->getVertex(i)->z;
+        if(maxz<node->getVertex(i)->z)  maxz=node->getVertex(i)->z;
+    }
+    double elevation=minz+(maxz-minz)*h_ratio;
+
+    int notriangle=node->getNumOfTriangles();
+    for(int i=0;i<notriangle;i++)
     {
         Triangle * triangle = node->getTriangle(i);
         Vertex * vet0=node->getVertex(triangle->position[0]);
@@ -45,8 +57,14 @@ int main(int argc, char *argv[])
         cout<<nop<<"\n";
     }
 
+    ofstream fout("vertex.txt");
+    for(unsigned int i=0;i<plan2d.size();i++)
+        fout<<plan2d[i].x<<"\t"<<plan2d[i].y<<"\t"<<minz<<endl;
+    fout.close();
+
     return 0;
 }
+
 
 void sort(Vertex * p0,Vertex * p1,Vertex * p2)
 {
@@ -138,7 +156,7 @@ int Cut(Vertex * p0,Vertex * p1,Vertex * p2,
 
 void InsertPoint(vector<Vertex> &v, Vertex *p0)
 {
-    double tol=1.0e-5;
+    double tol=1.0e-1;
     int size=v.size();
     if(size<2)  v.push_back(*p0);
     else
@@ -154,6 +172,10 @@ void InsertPoint(vector<Vertex> &v, Vertex *p0)
 Vertex * GetIntersect(Vertex * p0, Vertex * p1, double z)
 {
     Vertex * p = new Vertex;
+    double ratio=(p1->z-z)/(p1->z-p0->z);
+    p->x=p1->x-ratio*(p1->x-p0->x);
+    p->y=p1->y-ratio*(p1->y-p0->y);
+    p->z=z;
 
     return p;
 }
