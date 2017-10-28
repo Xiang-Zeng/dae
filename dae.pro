@@ -4,3 +4,7 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp
+
+HEADERS += \
+    lib/rapidxml.hpp \
+    lib/SimpleCOLLADA.hpp
