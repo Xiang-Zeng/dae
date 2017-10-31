@@ -1,0 +1,3721 @@
+
+Building 0 C:\Users\zengx\Desktop\all\sanf (1).dae
+
+Building 1 C:\Users\zengx\Desktop\all\sanf (2).dae
+
+Building 2 C:\Users\zengx\Desktop\all\sanf (3).dae
+
+Building 3 C:\Users\zengx\Desktop\all\sanf (4).dae
+
+Building 4 C:\Users\zengx\Desktop\all\sanf (5).dae
+
+Building 5 C:\Users\zengx\Desktop\all\sanf (6).dae
+
+Building 6 C:\Users\zengx\Desktop\all\sanf (7).dae
+
+Building 7 C:\Users\zengx\Desktop\all\sanf (8).dae
+Error 100: Failed to find next point!
+Building 8 C:\Users\zengx\Desktop\all\sanf (9).dae
+
+Building 9 C:\Users\zengx\Desktop\all\sanf (10).dae
+
+Building 10 C:\Users\zengx\Desktop\all\sanf (11).dae
+
+Building 11 C:\Users\zengx\Desktop\all\sanf (12).dae
+
+Building 12 C:\Users\zengx\Desktop\all\sanf (13).dae
+Error 100: Failed to find next point!
+Building 13 C:\Users\zengx\Desktop\all\sanf (14).dae
+
+Building 14 C:\Users\zengx\Desktop\all\sanf (15).dae
+Error 101: Too few intersection points!
+Building 15 C:\Users\zengx\Desktop\all\sanf (16).dae
+
+Building 16 C:\Users\zengx\Desktop\all\sanf (17).dae
+
+Building 17 C:\Users\zengx\Desktop\all\sanf (18).dae
+
+Building 18 C:\Users\zengx\Desktop\all\sanf (19).dae
+
+Building 19 C:\Users\zengx\Desktop\all\sanf (20).dae
+
+Building 20 C:\Users\zengx\Desktop\all\sanf (21).dae
+
+Building 21 C:\Users\zengx\Desktop\all\sanf (22).dae
+
+Building 22 C:\Users\zengx\Desktop\all\sanf (23).dae
+
+Building 23 C:\Users\zengx\Desktop\all\sanf (24).dae
+
+Building 24 C:\Users\zengx\Desktop\all\sanf (25).dae
+
+Building 25 C:\Users\zengx\Desktop\all\sanf (26).dae
+
+Building 26 C:\Users\zengx\Desktop\all\sanf (27).dae
+
+Building 27 C:\Users\zengx\Desktop\all\sanf (28).dae
+Error 100: Failed to find next point!
+Building 28 C:\Users\zengx\Desktop\all\sanf (29).dae
+Error 102: Polygon not closed!
+Building 29 C:\Users\zengx\Desktop\all\sanf (30).dae
+Error 100: Failed to find next point!
+Building 30 C:\Users\zengx\Desktop\all\sanf (31).dae
+Error 100: Failed to find next point!
+Building 31 C:\Users\zengx\Desktop\all\sanf (32).dae
+Error 100: Failed to find next point!
+Building 32 C:\Users\zengx\Desktop\all\sanf (33).dae
+
+Building 33 C:\Users\zengx\Desktop\all\sanf (34).dae
+
+Building 34 C:\Users\zengx\Desktop\all\sanf (35).dae
+Error 100: Failed to find next point!
+Building 35 C:\Users\zengx\Desktop\all\sanf (36).dae
+
+Building 36 C:\Users\zengx\Desktop\all\sanf (37).dae
+Error 101: Too few intersection points!
+Building 37 C:\Users\zengx\Desktop\all\sanf (38).dae
+Error 100: Failed to find next point!
+Building 38 C:\Users\zengx\Desktop\all\sanf (39).dae
+Error 100: Failed to find next point!
+Building 39 C:\Users\zengx\Desktop\all\sanf (40).dae
+Error 101: Too few intersection points!
+Building 40 C:\Users\zengx\Desktop\all\sanf (41).dae
+
+Building 41 C:\Users\zengx\Desktop\all\sanf (42).dae
+Error 100: Failed to find next point!
+Building 42 C:\Users\zengx\Desktop\all\sanf (43).dae
+Error 100: Failed to find next point!
+Building 43 C:\Users\zengx\Desktop\all\sanf (44).dae
+
+Building 44 C:\Users\zengx\Desktop\all\sanf (45).dae
+
+Building 45 C:\Users\zengx\Desktop\all\sanf (46).dae
+
+Building 46 C:\Users\zengx\Desktop\all\sanf (47).dae
+
+Building 47 C:\Users\zengx\Desktop\all\sanf (48).dae
+
+Building 48 C:\Users\zengx\Desktop\all\sanf (49).dae
+
+Building 49 C:\Users\zengx\Desktop\all\sanf (50).dae
+Error 101: Too few intersection points!
+Building 50 C:\Users\zengx\Desktop\all\sanf (51).dae
+
+Building 51 C:\Users\zengx\Desktop\all\sanf (52).dae
+
+Building 52 C:\Users\zengx\Desktop\all\sanf (53).dae
+
+Building 53 C:\Users\zengx\Desktop\all\sanf (54).dae
+
+Building 54 C:\Users\zengx\Desktop\all\sanf (55).dae
+
+Building 55 C:\Users\zengx\Desktop\all\sanf (56).dae
+Error 100: Failed to find next point!
+Building 56 C:\Users\zengx\Desktop\all\sanf (57).dae
+
+Building 57 C:\Users\zengx\Desktop\all\sanf (58).dae
+Error 100: Failed to find next point!
+Building 58 C:\Users\zengx\Desktop\all\sanf (59).dae
+
+Building 59 C:\Users\zengx\Desktop\all\sanf (60).dae
+Error 100: Failed to find next point!
+Building 60 C:\Users\zengx\Desktop\all\sanf (61).dae
+
+Building 61 C:\Users\zengx\Desktop\all\sanf (62).dae
+Error 100: Failed to find next point!
+Building 62 C:\Users\zengx\Desktop\all\sanf (63).dae
+
+Building 63 C:\Users\zengx\Desktop\all\sanf (64).dae
+
+Building 64 C:\Users\zengx\Desktop\all\sanf (65).dae
+
+Building 65 C:\Users\zengx\Desktop\all\sanf (66).dae
+
+Building 66 C:\Users\zengx\Desktop\all\sanf (67).dae
+Error 100: Failed to find next point!
+Building 67 C:\Users\zengx\Desktop\all\sanf (68).dae
+
+Building 68 C:\Users\zengx\Desktop\all\sanf (69).dae
+
+Building 69 C:\Users\zengx\Desktop\all\sanf (70).dae
+
+Building 70 C:\Users\zengx\Desktop\all\sanf (71).dae
+Error 100: Failed to find next point!
+Building 71 C:\Users\zengx\Desktop\all\sanf (72).dae
+
+Building 72 C:\Users\zengx\Desktop\all\sanf (73).dae
+
+Building 73 C:\Users\zengx\Desktop\all\sanf (74).dae
+Error 100: Failed to find next point!
+Building 74 C:\Users\zengx\Desktop\all\sanf (75).dae
+
+Building 75 C:\Users\zengx\Desktop\all\sanf (76).dae
+
+Building 76 C:\Users\zengx\Desktop\all\sanf (77).dae
+
+Building 77 C:\Users\zengx\Desktop\all\sanf (78).dae
+
+Building 78 C:\Users\zengx\Desktop\all\sanf (79).dae
+
+Building 79 C:\Users\zengx\Desktop\all\sanf (80).dae
+
+Building 80 C:\Users\zengx\Desktop\all\sanf (81).dae
+
+Building 81 C:\Users\zengx\Desktop\all\sanf (82).dae
+
+Building 82 C:\Users\zengx\Desktop\all\sanf (83).dae
+
+Building 83 C:\Users\zengx\Desktop\all\sanf (84).dae
+Error 100: Failed to find next point!
+Building 84 C:\Users\zengx\Desktop\all\sanf (85).dae
+
+Building 85 C:\Users\zengx\Desktop\all\sanf (86).dae
+
+Building 86 C:\Users\zengx\Desktop\all\sanf (87).dae
+
+Building 87 C:\Users\zengx\Desktop\all\sanf (88).dae
+
+Building 88 C:\Users\zengx\Desktop\all\sanf (89).dae
+
+Building 89 C:\Users\zengx\Desktop\all\sanf (90).dae
+
+Building 90 C:\Users\zengx\Desktop\all\sanf (91).dae
+
+Building 91 C:\Users\zengx\Desktop\all\sanf (92).dae
+
+Building 92 C:\Users\zengx\Desktop\all\sanf (93).dae
+
+Building 93 C:\Users\zengx\Desktop\all\sanf (94).dae
+
+Building 94 C:\Users\zengx\Desktop\all\sanf (95).dae
+
+Building 95 C:\Users\zengx\Desktop\all\sanf (96).dae
+
+Building 96 C:\Users\zengx\Desktop\all\sanf (97).dae
+
+Building 97 C:\Users\zengx\Desktop\all\sanf (98).dae
+
+Building 98 C:\Users\zengx\Desktop\all\sanf (99).dae
+
+Building 99 C:\Users\zengx\Desktop\all\sanf (100).dae
+
+Building 100 C:\Users\zengx\Desktop\all\sanf (101).dae
+Error 100: Failed to find next point!
+Building 101 C:\Users\zengx\Desktop\all\sanf (102).dae
+
+Building 102 C:\Users\zengx\Desktop\all\sanf (103).dae
+
+Building 103 C:\Users\zengx\Desktop\all\sanf (104).dae
+
+Building 104 C:\Users\zengx\Desktop\all\sanf (105).dae
+
+Building 105 C:\Users\zengx\Desktop\all\sanf (106).dae
+
+Building 106 C:\Users\zengx\Desktop\all\sanf (107).dae
+Error 100: Failed to find next point!
+Building 107 C:\Users\zengx\Desktop\all\sanf (108).dae
+
+Building 108 C:\Users\zengx\Desktop\all\sanf (109).dae
+
+Building 109 C:\Users\zengx\Desktop\all\sanf (110).dae
+
+Building 110 C:\Users\zengx\Desktop\all\sanf (111).dae
+
+Building 111 C:\Users\zengx\Desktop\all\sanf (112).dae
+
+Building 112 C:\Users\zengx\Desktop\all\sanf (113).dae
+
+Building 113 C:\Users\zengx\Desktop\all\sanf (114).dae
+
+Building 114 C:\Users\zengx\Desktop\all\sanf (115).dae
+
+Building 115 C:\Users\zengx\Desktop\all\sanf (116).dae
+
+Building 116 C:\Users\zengx\Desktop\all\sanf (117).dae
+
+Building 117 C:\Users\zengx\Desktop\all\sanf (118).dae
+
+Building 118 C:\Users\zengx\Desktop\all\sanf (119).dae
+
+Building 119 C:\Users\zengx\Desktop\all\sanf (120).dae
+
+Building 120 C:\Users\zengx\Desktop\all\sanf (121).dae
+
+Building 121 C:\Users\zengx\Desktop\all\sanf (122).dae
+
+Building 122 C:\Users\zengx\Desktop\all\sanf (123).dae
+
+Building 123 C:\Users\zengx\Desktop\all\sanf (124).dae
+
+Building 124 C:\Users\zengx\Desktop\all\sanf (125).dae
+
+Building 125 C:\Users\zengx\Desktop\all\sanf (126).dae
+
+Building 126 C:\Users\zengx\Desktop\all\sanf (127).dae
+
+Building 127 C:\Users\zengx\Desktop\all\sanf (128).dae
+Error 101: Too few intersection points!
+Building 128 C:\Users\zengx\Desktop\all\sanf (129).dae
+
+Building 129 C:\Users\zengx\Desktop\all\sanf (130).dae
+
+Building 130 C:\Users\zengx\Desktop\all\sanf (131).dae
+
+Building 131 C:\Users\zengx\Desktop\all\sanf (132).dae
+
+Building 132 C:\Users\zengx\Desktop\all\sanf (133).dae
+
+Building 133 C:\Users\zengx\Desktop\all\sanf (134).dae
+
+Building 134 C:\Users\zengx\Desktop\all\sanf (135).dae
+
+Building 135 C:\Users\zengx\Desktop\all\sanf (136).dae
+
+Building 136 C:\Users\zengx\Desktop\all\sanf (137).dae
+
+Building 137 C:\Users\zengx\Desktop\all\sanf (138).dae
+
+Building 138 C:\Users\zengx\Desktop\all\sanf (139).dae
+
+Building 139 C:\Users\zengx\Desktop\all\sanf (140).dae
+
+Building 140 C:\Users\zengx\Desktop\all\sanf (141).dae
+
+Building 141 C:\Users\zengx\Desktop\all\sanf (142).dae
+
+Building 142 C:\Users\zengx\Desktop\all\sanf (143).dae
+
+Building 143 C:\Users\zengx\Desktop\all\sanf (144).dae
+
+Building 144 C:\Users\zengx\Desktop\all\sanf (145).dae
+
+Building 145 C:\Users\zengx\Desktop\all\sanf (146).dae
+
+Building 146 C:\Users\zengx\Desktop\all\sanf (147).dae
+
+Building 147 C:\Users\zengx\Desktop\all\sanf (148).dae
+
+Building 148 C:\Users\zengx\Desktop\all\sanf (149).dae
+
+Building 149 C:\Users\zengx\Desktop\all\sanf (150).dae
+
+Building 150 C:\Users\zengx\Desktop\all\sanf (151).dae
+
+Building 151 C:\Users\zengx\Desktop\all\sanf (152).dae
+
+Building 152 C:\Users\zengx\Desktop\all\sanf (153).dae
+
+Building 153 C:\Users\zengx\Desktop\all\sanf (154).dae
+
+Building 154 C:\Users\zengx\Desktop\all\sanf (155).dae
+
+Building 155 C:\Users\zengx\Desktop\all\sanf (156).dae
+
+Building 156 C:\Users\zengx\Desktop\all\sanf (157).dae
+
+Building 157 C:\Users\zengx\Desktop\all\sanf (158).dae
+
+Building 158 C:\Users\zengx\Desktop\all\sanf (159).dae
+
+Building 159 C:\Users\zengx\Desktop\all\sanf (160).dae
+
+Building 160 C:\Users\zengx\Desktop\all\sanf (161).dae
+
+Building 161 C:\Users\zengx\Desktop\all\sanf (162).dae
+
+Building 162 C:\Users\zengx\Desktop\all\sanf (163).dae
+
+Building 163 C:\Users\zengx\Desktop\all\sanf (164).dae
+
+Building 164 C:\Users\zengx\Desktop\all\sanf (165).dae
+
+Building 165 C:\Users\zengx\Desktop\all\sanf (166).dae
+
+Building 166 C:\Users\zengx\Desktop\all\sanf (167).dae
+
+Building 167 C:\Users\zengx\Desktop\all\sanf (168).dae
+
+Building 168 C:\Users\zengx\Desktop\all\sanf (169).dae
+
+Building 169 C:\Users\zengx\Desktop\all\sanf (170).dae
+
+Building 170 C:\Users\zengx\Desktop\all\sanf (171).dae
+
+Building 171 C:\Users\zengx\Desktop\all\sanf (172).dae
+Error 101: Too few intersection points!
+Building 172 C:\Users\zengx\Desktop\all\sanf (173).dae
+
+Building 173 C:\Users\zengx\Desktop\all\sanf (174).dae
+
+Building 174 C:\Users\zengx\Desktop\all\sanf (175).dae
+
+Building 175 C:\Users\zengx\Desktop\all\sanf (176).dae
+
+Building 176 C:\Users\zengx\Desktop\all\sanf (177).dae
+
+Building 177 C:\Users\zengx\Desktop\all\sanf (178).dae
+
+Building 178 C:\Users\zengx\Desktop\all\sanf (179).dae
+
+Building 179 C:\Users\zengx\Desktop\all\sanf (180).dae
+
+Building 180 C:\Users\zengx\Desktop\all\sanf (181).dae
+
+Building 181 C:\Users\zengx\Desktop\all\sanf (182).dae
+
+Building 182 C:\Users\zengx\Desktop\all\sanf (183).dae
+
+Building 183 C:\Users\zengx\Desktop\all\sanf (184).dae
+
+Building 184 C:\Users\zengx\Desktop\all\sanf (185).dae
+
+Building 185 C:\Users\zengx\Desktop\all\sanf (186).dae
+
+Building 186 C:\Users\zengx\Desktop\all\sanf (187).dae
+
+Building 187 C:\Users\zengx\Desktop\all\sanf (188).dae
+
+Building 188 C:\Users\zengx\Desktop\all\sanf (189).dae
+
+Building 189 C:\Users\zengx\Desktop\all\sanf (190).dae
+
+Building 190 C:\Users\zengx\Desktop\all\sanf (191).dae
+
+Building 191 C:\Users\zengx\Desktop\all\sanf (192).dae
+
+Building 192 C:\Users\zengx\Desktop\all\sanf (193).dae
+
+Building 193 C:\Users\zengx\Desktop\all\sanf (194).dae
+Error 101: Too few intersection points!
+Building 194 C:\Users\zengx\Desktop\all\sanf (195).dae
+
+Building 195 C:\Users\zengx\Desktop\all\sanf (196).dae
+
+Building 196 C:\Users\zengx\Desktop\all\sanf (197).dae
+
+Building 197 C:\Users\zengx\Desktop\all\sanf (198).dae
+
+Building 198 C:\Users\zengx\Desktop\all\sanf (199).dae
+
+Building 199 C:\Users\zengx\Desktop\all\sanf (200).dae
+
+Building 200 C:\Users\zengx\Desktop\all\sanf (201).dae
+
+Building 201 C:\Users\zengx\Desktop\all\sanf (202).dae
+
+Building 202 C:\Users\zengx\Desktop\all\sanf (203).dae
+
+Building 203 C:\Users\zengx\Desktop\all\sanf (204).dae
+
+Building 204 C:\Users\zengx\Desktop\all\sanf (205).dae
+
+Building 205 C:\Users\zengx\Desktop\all\sanf (206).dae
+
+Building 206 C:\Users\zengx\Desktop\all\sanf (207).dae
+
+Building 207 C:\Users\zengx\Desktop\all\sanf (208).dae
+
+Building 208 C:\Users\zengx\Desktop\all\sanf (209).dae
+Error 101: Too few intersection points!
+Building 209 C:\Users\zengx\Desktop\all\sanf (210).dae
+
+Building 210 C:\Users\zengx\Desktop\all\sanf (211).dae
+
+Building 211 C:\Users\zengx\Desktop\all\sanf (212).dae
+
+Building 212 C:\Users\zengx\Desktop\all\sanf (213).dae
+
+Building 213 C:\Users\zengx\Desktop\all\sanf (214).dae
+
+Building 214 C:\Users\zengx\Desktop\all\sanf (215).dae
+
+Building 215 C:\Users\zengx\Desktop\all\sanf (216).dae
+
+Building 216 C:\Users\zengx\Desktop\all\sanf (217).dae
+
+Building 217 C:\Users\zengx\Desktop\all\sanf (218).dae
+
+Building 218 C:\Users\zengx\Desktop\all\sanf (219).dae
+
+Building 219 C:\Users\zengx\Desktop\all\sanf (220).dae
+
+Building 220 C:\Users\zengx\Desktop\all\sanf (221).dae
+
+Building 221 C:\Users\zengx\Desktop\all\sanf (222).dae
+
+Building 222 C:\Users\zengx\Desktop\all\sanf (223).dae
+
+Building 223 C:\Users\zengx\Desktop\all\sanf (224).dae
+
+Building 224 C:\Users\zengx\Desktop\all\sanf (225).dae
+
+Building 225 C:\Users\zengx\Desktop\all\sanf (226).dae
+Error 100: Failed to find next point!
+Building 226 C:\Users\zengx\Desktop\all\sanf (227).dae
+
+Building 227 C:\Users\zengx\Desktop\all\sanf (228).dae
+
+Building 228 C:\Users\zengx\Desktop\all\sanf (229).dae
+
+Building 229 C:\Users\zengx\Desktop\all\sanf (230).dae
+
+Building 230 C:\Users\zengx\Desktop\all\sanf (231).dae
+
+Building 231 C:\Users\zengx\Desktop\all\sanf (232).dae
+
+Building 232 C:\Users\zengx\Desktop\all\sanf (233).dae
+
+Building 233 C:\Users\zengx\Desktop\all\sanf (234).dae
+
+Building 234 C:\Users\zengx\Desktop\all\sanf (235).dae
+
+Building 235 C:\Users\zengx\Desktop\all\sanf (236).dae
+
+Building 236 C:\Users\zengx\Desktop\all\sanf (237).dae
+
+Building 237 C:\Users\zengx\Desktop\all\sanf (238).dae
+
+Building 238 C:\Users\zengx\Desktop\all\sanf (239).dae
+
+Building 239 C:\Users\zengx\Desktop\all\sanf (240).dae
+
+Building 240 C:\Users\zengx\Desktop\all\sanf (241).dae
+
+Building 241 C:\Users\zengx\Desktop\all\sanf (242).dae
+Error 100: Failed to find next point!
+Building 242 C:\Users\zengx\Desktop\all\sanf (243).dae
+
+Building 243 C:\Users\zengx\Desktop\all\sanf (244).dae
+
+Building 244 C:\Users\zengx\Desktop\all\sanf (245).dae
+
+Building 245 C:\Users\zengx\Desktop\all\sanf (246).dae
+
+Building 246 C:\Users\zengx\Desktop\all\sanf (247).dae
+
+Building 247 C:\Users\zengx\Desktop\all\sanf (248).dae
+
+Building 248 C:\Users\zengx\Desktop\all\sanf (249).dae
+
+Building 249 C:\Users\zengx\Desktop\all\sanf (250).dae
+
+Building 250 C:\Users\zengx\Desktop\all\sanf (251).dae
+
+Building 251 C:\Users\zengx\Desktop\all\sanf (252).dae
+
+Building 252 C:\Users\zengx\Desktop\all\sanf (253).dae
+
+Building 253 C:\Users\zengx\Desktop\all\sanf (254).dae
+
+Building 254 C:\Users\zengx\Desktop\all\sanf (255).dae
+
+Building 255 C:\Users\zengx\Desktop\all\sanf (256).dae
+
+Building 256 C:\Users\zengx\Desktop\all\sanf (257).dae
+
+Building 257 C:\Users\zengx\Desktop\all\sanf (258).dae
+
+Building 258 C:\Users\zengx\Desktop\all\sanf (259).dae
+
+Building 259 C:\Users\zengx\Desktop\all\sanf (260).dae
+
+Building 260 C:\Users\zengx\Desktop\all\sanf (261).dae
+
+Building 261 C:\Users\zengx\Desktop\all\sanf (262).dae
+
+Building 262 C:\Users\zengx\Desktop\all\sanf (263).dae
+
+Building 263 C:\Users\zengx\Desktop\all\sanf (264).dae
+
+Building 264 C:\Users\zengx\Desktop\all\sanf (265).dae
+
+Building 265 C:\Users\zengx\Desktop\all\sanf (266).dae
+Error 100: Failed to find next point!
+Building 266 C:\Users\zengx\Desktop\all\sanf (267).dae
+
+Building 267 C:\Users\zengx\Desktop\all\sanf (268).dae
+
+Building 268 C:\Users\zengx\Desktop\all\sanf (269).dae
+
+Building 269 C:\Users\zengx\Desktop\all\sanf (270).dae
+
+Building 270 C:\Users\zengx\Desktop\all\sanf (271).dae
+
+Building 271 C:\Users\zengx\Desktop\all\sanf (272).dae
+
+Building 272 C:\Users\zengx\Desktop\all\sanf (273).dae
+
+Building 273 C:\Users\zengx\Desktop\all\sanf (274).dae
+
+Building 274 C:\Users\zengx\Desktop\all\sanf (275).dae
+
+Building 275 C:\Users\zengx\Desktop\all\sanf (276).dae
+
+Building 276 C:\Users\zengx\Desktop\all\sanf (277).dae
+
+Building 277 C:\Users\zengx\Desktop\all\sanf (278).dae
+
+Building 278 C:\Users\zengx\Desktop\all\sanf (279).dae
+
+Building 279 C:\Users\zengx\Desktop\all\sanf (280).dae
+
+Building 280 C:\Users\zengx\Desktop\all\sanf (281).dae
+
+Building 281 C:\Users\zengx\Desktop\all\sanf (282).dae
+
+Building 282 C:\Users\zengx\Desktop\all\sanf (283).dae
+
+Building 283 C:\Users\zengx\Desktop\all\sanf (284).dae
+
+Building 284 C:\Users\zengx\Desktop\all\sanf (285).dae
+
+Building 285 C:\Users\zengx\Desktop\all\sanf (286).dae
+
+Building 286 C:\Users\zengx\Desktop\all\sanf (287).dae
+
+Building 287 C:\Users\zengx\Desktop\all\sanf (288).dae
+
+Building 288 C:\Users\zengx\Desktop\all\sanf (289).dae
+
+Building 289 C:\Users\zengx\Desktop\all\sanf (290).dae
+
+Building 290 C:\Users\zengx\Desktop\all\sanf (291).dae
+
+Building 291 C:\Users\zengx\Desktop\all\sanf (292).dae
+
+Building 292 C:\Users\zengx\Desktop\all\sanf (293).dae
+
+Building 293 C:\Users\zengx\Desktop\all\sanf (294).dae
+
+Building 294 C:\Users\zengx\Desktop\all\sanf (295).dae
+
+Building 295 C:\Users\zengx\Desktop\all\sanf (296).dae
+
+Building 296 C:\Users\zengx\Desktop\all\sanf (297).dae
+
+Building 297 C:\Users\zengx\Desktop\all\sanf (298).dae
+
+Building 298 C:\Users\zengx\Desktop\all\sanf (299).dae
+
+Building 299 C:\Users\zengx\Desktop\all\sanf (300).dae
+
+Building 300 C:\Users\zengx\Desktop\all\sanf (301).dae
+
+Building 301 C:\Users\zengx\Desktop\all\sanf (302).dae
+
+Building 302 C:\Users\zengx\Desktop\all\sanf (303).dae
+
+Building 303 C:\Users\zengx\Desktop\all\sanf (304).dae
+
+Building 304 C:\Users\zengx\Desktop\all\sanf (305).dae
+
+Building 305 C:\Users\zengx\Desktop\all\sanf (306).dae
+
+Building 306 C:\Users\zengx\Desktop\all\sanf (307).dae
+
+Building 307 C:\Users\zengx\Desktop\all\sanf (308).dae
+
+Building 308 C:\Users\zengx\Desktop\all\sanf (309).dae
+
+Building 309 C:\Users\zengx\Desktop\all\sanf (310).dae
+
+Building 310 C:\Users\zengx\Desktop\all\sanf (311).dae
+
+Building 311 C:\Users\zengx\Desktop\all\sanf (312).dae
+
+Building 312 C:\Users\zengx\Desktop\all\sanf (313).dae
+
+Building 313 C:\Users\zengx\Desktop\all\sanf (314).dae
+
+Building 314 C:\Users\zengx\Desktop\all\sanf (315).dae
+
+Building 315 C:\Users\zengx\Desktop\all\sanf (316).dae
+
+Building 316 C:\Users\zengx\Desktop\all\sanf (317).dae
+
+Building 317 C:\Users\zengx\Desktop\all\sanf (318).dae
+
+Building 318 C:\Users\zengx\Desktop\all\sanf (319).dae
+Error 100: Failed to find next point!
+Building 319 C:\Users\zengx\Desktop\all\sanf (320).dae
+
+Building 320 C:\Users\zengx\Desktop\all\sanf (321).dae
+
+Building 321 C:\Users\zengx\Desktop\all\sanf (322).dae
+
+Building 322 C:\Users\zengx\Desktop\all\sanf (323).dae
+
+Building 323 C:\Users\zengx\Desktop\all\sanf (324).dae
+
+Building 324 C:\Users\zengx\Desktop\all\sanf (325).dae
+
+Building 325 C:\Users\zengx\Desktop\all\sanf (326).dae
+
+Building 326 C:\Users\zengx\Desktop\all\sanf (327).dae
+
+Building 327 C:\Users\zengx\Desktop\all\sanf (328).dae
+
+Building 328 C:\Users\zengx\Desktop\all\sanf (329).dae
+
+Building 329 C:\Users\zengx\Desktop\all\sanf (330).dae
+Error 100: Failed to find next point!
+Building 330 C:\Users\zengx\Desktop\all\sanf (331).dae
+
+Building 331 C:\Users\zengx\Desktop\all\sanf (332).dae
+
+Building 332 C:\Users\zengx\Desktop\all\sanf (333).dae
+
+Building 333 C:\Users\zengx\Desktop\all\sanf (334).dae
+
+Building 334 C:\Users\zengx\Desktop\all\sanf (335).dae
+
+Building 335 C:\Users\zengx\Desktop\all\sanf (336).dae
+
+Building 336 C:\Users\zengx\Desktop\all\sanf (337).dae
+
+Building 337 C:\Users\zengx\Desktop\all\sanf (338).dae
+
+Building 338 C:\Users\zengx\Desktop\all\sanf (339).dae
+Error 100: Failed to find next point!
+Building 339 C:\Users\zengx\Desktop\all\sanf (340).dae
+
+Building 340 C:\Users\zengx\Desktop\all\sanf (341).dae
+
+Building 341 C:\Users\zengx\Desktop\all\sanf (342).dae
+
+Building 342 C:\Users\zengx\Desktop\all\sanf (343).dae
+
+Building 343 C:\Users\zengx\Desktop\all\sanf (344).dae
+
+Building 344 C:\Users\zengx\Desktop\all\sanf (345).dae
+
+Building 345 C:\Users\zengx\Desktop\all\sanf (346).dae
+
+Building 346 C:\Users\zengx\Desktop\all\sanf (347).dae
+
+Building 347 C:\Users\zengx\Desktop\all\sanf (348).dae
+
+Building 348 C:\Users\zengx\Desktop\all\sanf (349).dae
+
+Building 349 C:\Users\zengx\Desktop\all\sanf (350).dae
+Error 100: Failed to find next point!
+Building 350 C:\Users\zengx\Desktop\all\sanf (351).dae
+
+Building 351 C:\Users\zengx\Desktop\all\sanf (352).dae
+
+Building 352 C:\Users\zengx\Desktop\all\sanf (353).dae
+
+Building 353 C:\Users\zengx\Desktop\all\sanf (354).dae
+
+Building 354 C:\Users\zengx\Desktop\all\sanf (355).dae
+
+Building 355 C:\Users\zengx\Desktop\all\sanf (356).dae
+Error 100: Failed to find next point!
+Building 356 C:\Users\zengx\Desktop\all\sanf (357).dae
+
+Building 357 C:\Users\zengx\Desktop\all\sanf (358).dae
+
+Building 358 C:\Users\zengx\Desktop\all\sanf (359).dae
+
+Building 359 C:\Users\zengx\Desktop\all\sanf (360).dae
+
+Building 360 C:\Users\zengx\Desktop\all\sanf (361).dae
+
+Building 361 C:\Users\zengx\Desktop\all\sanf (362).dae
+
+Building 362 C:\Users\zengx\Desktop\all\sanf (363).dae
+
+Building 363 C:\Users\zengx\Desktop\all\sanf (364).dae
+
+Building 364 C:\Users\zengx\Desktop\all\sanf (365).dae
+
+Building 365 C:\Users\zengx\Desktop\all\sanf (366).dae
+Error 100: Failed to find next point!
+Building 366 C:\Users\zengx\Desktop\all\sanf (367).dae
+
+Building 367 C:\Users\zengx\Desktop\all\sanf (368).dae
+
+Building 368 C:\Users\zengx\Desktop\all\sanf (369).dae
+
+Building 369 C:\Users\zengx\Desktop\all\sanf (370).dae
+
+Building 370 C:\Users\zengx\Desktop\all\sanf (371).dae
+
+Building 371 C:\Users\zengx\Desktop\all\sanf (372).dae
+
+Building 372 C:\Users\zengx\Desktop\all\sanf (373).dae
+
+Building 373 C:\Users\zengx\Desktop\all\sanf (374).dae
+Error 100: Failed to find next point!
+Building 374 C:\Users\zengx\Desktop\all\sanf (375).dae
+
+Building 375 C:\Users\zengx\Desktop\all\sanf (376).dae
+
+Building 376 C:\Users\zengx\Desktop\all\sanf (377).dae
+
+Building 377 C:\Users\zengx\Desktop\all\sanf (378).dae
+
+Building 378 C:\Users\zengx\Desktop\all\sanf (379).dae
+
+Building 379 C:\Users\zengx\Desktop\all\sanf (380).dae
+
+Building 380 C:\Users\zengx\Desktop\all\sanf (381).dae
+
+Building 381 C:\Users\zengx\Desktop\all\sanf (382).dae
+
+Building 382 C:\Users\zengx\Desktop\all\sanf (383).dae
+
+Building 383 C:\Users\zengx\Desktop\all\sanf (384).dae
+
+Building 384 C:\Users\zengx\Desktop\all\sanf (385).dae
+
+Building 385 C:\Users\zengx\Desktop\all\sanf (386).dae
+
+Building 386 C:\Users\zengx\Desktop\all\sanf (387).dae
+
+Building 387 C:\Users\zengx\Desktop\all\sanf (388).dae
+
+Building 388 C:\Users\zengx\Desktop\all\sanf (389).dae
+
+Building 389 C:\Users\zengx\Desktop\all\sanf (390).dae
+
+Building 390 C:\Users\zengx\Desktop\all\sanf (391).dae
+Error 100: Failed to find next point!
+Building 391 C:\Users\zengx\Desktop\all\sanf (392).dae
+Error 100: Failed to find next point!
+Building 392 C:\Users\zengx\Desktop\all\sanf (393).dae
+
+Building 393 C:\Users\zengx\Desktop\all\sanf (394).dae
+
+Building 394 C:\Users\zengx\Desktop\all\sanf (395).dae
+
+Building 395 C:\Users\zengx\Desktop\all\sanf (396).dae
+
+Building 396 C:\Users\zengx\Desktop\all\sanf (397).dae
+
+Building 397 C:\Users\zengx\Desktop\all\sanf (398).dae
+
+Building 398 C:\Users\zengx\Desktop\all\sanf (399).dae
+
+Building 399 C:\Users\zengx\Desktop\all\sanf (400).dae
+
+Building 400 C:\Users\zengx\Desktop\all\sanf (401).dae
+
+Building 401 C:\Users\zengx\Desktop\all\sanf (402).dae
+
+Building 402 C:\Users\zengx\Desktop\all\sanf (403).dae
+
+Building 403 C:\Users\zengx\Desktop\all\sanf (404).dae
+
+Building 404 C:\Users\zengx\Desktop\all\sanf (405).dae
+
+Building 405 C:\Users\zengx\Desktop\all\sanf (406).dae
+
+Building 406 C:\Users\zengx\Desktop\all\sanf (407).dae
+
+Building 407 C:\Users\zengx\Desktop\all\sanf (408).dae
+
+Building 408 C:\Users\zengx\Desktop\all\sanf (409).dae
+
+Building 409 C:\Users\zengx\Desktop\all\sanf (410).dae
+
+Building 410 C:\Users\zengx\Desktop\all\sanf (411).dae
+Error 100: Failed to find next point!
+Building 411 C:\Users\zengx\Desktop\all\sanf (412).dae
+
+Building 412 C:\Users\zengx\Desktop\all\sanf (413).dae
+
+Building 413 C:\Users\zengx\Desktop\all\sanf (414).dae
+
+Building 414 C:\Users\zengx\Desktop\all\sanf (415).dae
+
+Building 415 C:\Users\zengx\Desktop\all\sanf (416).dae
+
+Building 416 C:\Users\zengx\Desktop\all\sanf (417).dae
+Error 100: Failed to find next point!
+Building 417 C:\Users\zengx\Desktop\all\sanf (418).dae
+Error 100: Failed to find next point!
+Building 418 C:\Users\zengx\Desktop\all\sanf (419).dae
+
+Building 419 C:\Users\zengx\Desktop\all\sanf (420).dae
+
+Building 420 C:\Users\zengx\Desktop\all\sanf (421).dae
+
+Building 421 C:\Users\zengx\Desktop\all\sanf (422).dae
+
+Building 422 C:\Users\zengx\Desktop\all\sanf (423).dae
+
+Building 423 C:\Users\zengx\Desktop\all\sanf (424).dae
+
+Building 424 C:\Users\zengx\Desktop\all\sanf (425).dae
+
+Building 425 C:\Users\zengx\Desktop\all\sanf (426).dae
+
+Building 426 C:\Users\zengx\Desktop\all\sanf (427).dae
+
+Building 427 C:\Users\zengx\Desktop\all\sanf (428).dae
+
+Building 428 C:\Users\zengx\Desktop\all\sanf (429).dae
+
+Building 429 C:\Users\zengx\Desktop\all\sanf (430).dae
+
+Building 430 C:\Users\zengx\Desktop\all\sanf (431).dae
+
+Building 431 C:\Users\zengx\Desktop\all\sanf (432).dae
+
+Building 432 C:\Users\zengx\Desktop\all\sanf (433).dae
+
+Building 433 C:\Users\zengx\Desktop\all\sanf (434).dae
+
+Building 434 C:\Users\zengx\Desktop\all\sanf (435).dae
+
+Building 435 C:\Users\zengx\Desktop\all\sanf (436).dae
+
+Building 436 C:\Users\zengx\Desktop\all\sanf (437).dae
+
+Building 437 C:\Users\zengx\Desktop\all\sanf (438).dae
+
+Building 438 C:\Users\zengx\Desktop\all\sanf (439).dae
+
+Building 439 C:\Users\zengx\Desktop\all\sanf (440).dae
+
+Building 440 C:\Users\zengx\Desktop\all\sanf (441).dae
+
+Building 441 C:\Users\zengx\Desktop\all\sanf (442).dae
+Error 100: Failed to find next point!
+Building 442 C:\Users\zengx\Desktop\all\sanf (443).dae
+Error 100: Failed to find next point!
+Building 443 C:\Users\zengx\Desktop\all\sanf (444).dae
+
+Building 444 C:\Users\zengx\Desktop\all\sanf (445).dae
+
+Building 445 C:\Users\zengx\Desktop\all\sanf (446).dae
+
+Building 446 C:\Users\zengx\Desktop\all\sanf (447).dae
+
+Building 447 C:\Users\zengx\Desktop\all\sanf (448).dae
+
+Building 448 C:\Users\zengx\Desktop\all\sanf (449).dae
+
+Building 449 C:\Users\zengx\Desktop\all\sanf (450).dae
+
+Building 450 C:\Users\zengx\Desktop\all\sanf (451).dae
+
+Building 451 C:\Users\zengx\Desktop\all\sanf (452).dae
+
+Building 452 C:\Users\zengx\Desktop\all\sanf (453).dae
+
+Building 453 C:\Users\zengx\Desktop\all\sanf (454).dae
+
+Building 454 C:\Users\zengx\Desktop\all\sanf (455).dae
+Error 101: Too few intersection points!
+Building 455 C:\Users\zengx\Desktop\all\sanf (456).dae
+
+Building 456 C:\Users\zengx\Desktop\all\sanf (457).dae
+
+Building 457 C:\Users\zengx\Desktop\all\sanf (458).dae
+
+Building 458 C:\Users\zengx\Desktop\all\sanf (459).dae
+
+Building 459 C:\Users\zengx\Desktop\all\sanf (460).dae
+
+Building 460 C:\Users\zengx\Desktop\all\sanf (461).dae
+
+Building 461 C:\Users\zengx\Desktop\all\sanf (462).dae
+
+Building 462 C:\Users\zengx\Desktop\all\sanf (463).dae
+
+Building 463 C:\Users\zengx\Desktop\all\sanf (464).dae
+
+Building 464 C:\Users\zengx\Desktop\all\sanf (465).dae
+
+Building 465 C:\Users\zengx\Desktop\all\sanf (466).dae
+
+Building 466 C:\Users\zengx\Desktop\all\sanf (467).dae
+
+Building 467 C:\Users\zengx\Desktop\all\sanf (468).dae
+
+Building 468 C:\Users\zengx\Desktop\all\sanf (469).dae
+
+Building 469 C:\Users\zengx\Desktop\all\sanf (470).dae
+
+Building 470 C:\Users\zengx\Desktop\all\sanf (471).dae
+
+Building 471 C:\Users\zengx\Desktop\all\sanf (472).dae
+
+Building 472 C:\Users\zengx\Desktop\all\sanf (473).dae
+
+Building 473 C:\Users\zengx\Desktop\all\sanf (474).dae
+
+Building 474 C:\Users\zengx\Desktop\all\sanf (475).dae
+
+Building 475 C:\Users\zengx\Desktop\all\sanf (476).dae
+
+Building 476 C:\Users\zengx\Desktop\all\sanf (477).dae
+
+Building 477 C:\Users\zengx\Desktop\all\sanf (478).dae
+
+Building 478 C:\Users\zengx\Desktop\all\sanf (479).dae
+
+Building 479 C:\Users\zengx\Desktop\all\sanf (480).dae
+Error 100: Failed to find next point!
+Building 480 C:\Users\zengx\Desktop\all\sanf (481).dae
+
+Building 481 C:\Users\zengx\Desktop\all\sanf (482).dae
+
+Building 482 C:\Users\zengx\Desktop\all\sanf (483).dae
+
+Building 483 C:\Users\zengx\Desktop\all\sanf (484).dae
+
+Building 484 C:\Users\zengx\Desktop\all\sanf (485).dae
+
+Building 485 C:\Users\zengx\Desktop\all\sanf (486).dae
+
+Building 486 C:\Users\zengx\Desktop\all\sanf (487).dae
+
+Building 487 C:\Users\zengx\Desktop\all\sanf (488).dae
+
+Building 488 C:\Users\zengx\Desktop\all\sanf (489).dae
+
+Building 489 C:\Users\zengx\Desktop\all\sanf (490).dae
+
+Building 490 C:\Users\zengx\Desktop\all\sanf (491).dae
+Error 101: Too few intersection points!
+Building 491 C:\Users\zengx\Desktop\all\sanf (492).dae
+
+Building 492 C:\Users\zengx\Desktop\all\sanf (493).dae
+
+Building 493 C:\Users\zengx\Desktop\all\sanf (494).dae
+
+Building 494 C:\Users\zengx\Desktop\all\sanf (495).dae
+
+Building 495 C:\Users\zengx\Desktop\all\sanf (496).dae
+Error 100: Failed to find next point!
+Building 496 C:\Users\zengx\Desktop\all\sanf (497).dae
+
+Building 497 C:\Users\zengx\Desktop\all\sanf (498).dae
+
+Building 498 C:\Users\zengx\Desktop\all\sanf (499).dae
+
+Building 499 C:\Users\zengx\Desktop\all\sanf (500).dae
+
+Building 500 C:\Users\zengx\Desktop\all\sanf (501).dae
+
+Building 501 C:\Users\zengx\Desktop\all\sanf (502).dae
+
+Building 502 C:\Users\zengx\Desktop\all\sanf (503).dae
+
+Building 503 C:\Users\zengx\Desktop\all\sanf (504).dae
+
+Building 504 C:\Users\zengx\Desktop\all\sanf (505).dae
+
+Building 505 C:\Users\zengx\Desktop\all\sanf (506).dae
+
+Building 506 C:\Users\zengx\Desktop\all\sanf (507).dae
+
+Building 507 C:\Users\zengx\Desktop\all\sanf (508).dae
+Error 100: Failed to find next point!
+Building 508 C:\Users\zengx\Desktop\all\sanf (509).dae
+
+Building 509 C:\Users\zengx\Desktop\all\sanf (510).dae
+
+Building 510 C:\Users\zengx\Desktop\all\sanf (511).dae
+
+Building 511 C:\Users\zengx\Desktop\all\sanf (512).dae
+
+Building 512 C:\Users\zengx\Desktop\all\sanf (513).dae
+
+Building 513 C:\Users\zengx\Desktop\all\sanf (514).dae
+
+Building 514 C:\Users\zengx\Desktop\all\sanf (515).dae
+
+Building 515 C:\Users\zengx\Desktop\all\sanf (516).dae
+
+Building 516 C:\Users\zengx\Desktop\all\sanf (517).dae
+
+Building 517 C:\Users\zengx\Desktop\all\sanf (518).dae
+
+Building 518 C:\Users\zengx\Desktop\all\sanf (519).dae
+
+Building 519 C:\Users\zengx\Desktop\all\sanf (520).dae
+
+Building 520 C:\Users\zengx\Desktop\all\sanf (521).dae
+
+Building 521 C:\Users\zengx\Desktop\all\sanf (522).dae
+
+Building 522 C:\Users\zengx\Desktop\all\sanf (523).dae
+
+Building 523 C:\Users\zengx\Desktop\all\sanf (524).dae
+
+Building 524 C:\Users\zengx\Desktop\all\sanf (525).dae
+
+Building 525 C:\Users\zengx\Desktop\all\sanf (526).dae
+
+Building 526 C:\Users\zengx\Desktop\all\sanf (527).dae
+
+Building 527 C:\Users\zengx\Desktop\all\sanf (528).dae
+
+Building 528 C:\Users\zengx\Desktop\all\sanf (529).dae
+
+Building 529 C:\Users\zengx\Desktop\all\sanf (530).dae
+
+Building 530 C:\Users\zengx\Desktop\all\sanf (531).dae
+
+Building 531 C:\Users\zengx\Desktop\all\sanf (532).dae
+
+Building 532 C:\Users\zengx\Desktop\all\sanf (533).dae
+Error 100: Failed to find next point!
+Building 533 C:\Users\zengx\Desktop\all\sanf (534).dae
+
+Building 534 C:\Users\zengx\Desktop\all\sanf (535).dae
+
+Building 535 C:\Users\zengx\Desktop\all\sanf (536).dae
+
+Building 536 C:\Users\zengx\Desktop\all\sanf (537).dae
+
+Building 537 C:\Users\zengx\Desktop\all\sanf (538).dae
+
+Building 538 C:\Users\zengx\Desktop\all\sanf (539).dae
+
+Building 539 C:\Users\zengx\Desktop\all\sanf (540).dae
+
+Building 540 C:\Users\zengx\Desktop\all\sanf (541).dae
+
+Building 541 C:\Users\zengx\Desktop\all\sanf (542).dae
+
+Building 542 C:\Users\zengx\Desktop\all\sanf (543).dae
+Error 100: Failed to find next point!
+Building 543 C:\Users\zengx\Desktop\all\sanf (544).dae
+
+Building 544 C:\Users\zengx\Desktop\all\sanf (545).dae
+
+Building 545 C:\Users\zengx\Desktop\all\sanf (546).dae
+
+Building 546 C:\Users\zengx\Desktop\all\sanf (547).dae
+
+Building 547 C:\Users\zengx\Desktop\all\sanf (548).dae
+
+Building 548 C:\Users\zengx\Desktop\all\sanf (549).dae
+
+Building 549 C:\Users\zengx\Desktop\all\sanf (550).dae
+
+Building 550 C:\Users\zengx\Desktop\all\sanf (551).dae
+
+Building 551 C:\Users\zengx\Desktop\all\sanf (552).dae
+
+Building 552 C:\Users\zengx\Desktop\all\sanf (553).dae
+
+Building 553 C:\Users\zengx\Desktop\all\sanf (554).dae
+
+Building 554 C:\Users\zengx\Desktop\all\sanf (555).dae
+
+Building 555 C:\Users\zengx\Desktop\all\sanf (556).dae
+
+Building 556 C:\Users\zengx\Desktop\all\sanf (557).dae
+
+Building 557 C:\Users\zengx\Desktop\all\sanf (558).dae
+
+Building 558 C:\Users\zengx\Desktop\all\sanf (559).dae
+
+Building 559 C:\Users\zengx\Desktop\all\sanf (560).dae
+
+Building 560 C:\Users\zengx\Desktop\all\sanf (561).dae
+
+Building 561 C:\Users\zengx\Desktop\all\sanf (562).dae
+Error 100: Failed to find next point!
+Building 562 C:\Users\zengx\Desktop\all\sanf (563).dae
+
+Building 563 C:\Users\zengx\Desktop\all\sanf (564).dae
+Error 102: Polygon not closed!
+Building 564 C:\Users\zengx\Desktop\all\sanf (565).dae
+Error 100: Failed to find next point!
+Building 565 C:\Users\zengx\Desktop\all\sanf (566).dae
+Error 100: Failed to find next point!
+Building 566 C:\Users\zengx\Desktop\all\sanf (567).dae
+
+Building 567 C:\Users\zengx\Desktop\all\sanf (568).dae
+Error 100: Failed to find next point!
+Building 568 C:\Users\zengx\Desktop\all\sanf (569).dae
+
+Building 569 C:\Users\zengx\Desktop\all\sanf (570).dae
+
+Building 570 C:\Users\zengx\Desktop\all\sanf (571).dae
+
+Building 571 C:\Users\zengx\Desktop\all\sanf (572).dae
+
+Building 572 C:\Users\zengx\Desktop\all\sanf (573).dae
+
+Building 573 C:\Users\zengx\Desktop\all\sanf (574).dae
+
+Building 574 C:\Users\zengx\Desktop\all\sanf (575).dae
+
+Building 575 C:\Users\zengx\Desktop\all\sanf (576).dae
+
+Building 576 C:\Users\zengx\Desktop\all\sanf (577).dae
+
+Building 577 C:\Users\zengx\Desktop\all\sanf (578).dae
+
+Building 578 C:\Users\zengx\Desktop\all\sanf (579).dae
+
+Building 579 C:\Users\zengx\Desktop\all\sanf (580).dae
+
+Building 580 C:\Users\zengx\Desktop\all\sanf (581).dae
+
+Building 581 C:\Users\zengx\Desktop\all\sanf (582).dae
+
+Building 582 C:\Users\zengx\Desktop\all\sanf (583).dae
+
+Building 583 C:\Users\zengx\Desktop\all\sanf (584).dae
+Error 100: Failed to find next point!
+Building 584 C:\Users\zengx\Desktop\all\sanf (585).dae
+
+Building 585 C:\Users\zengx\Desktop\all\sanf (586).dae
+
+Building 586 C:\Users\zengx\Desktop\all\sanf (587).dae
+
+Building 587 C:\Users\zengx\Desktop\all\sanf (588).dae
+Error 100: Failed to find next point!
+Building 588 C:\Users\zengx\Desktop\all\sanf (589).dae
+
+Building 589 C:\Users\zengx\Desktop\all\sanf (590).dae
+
+Building 590 C:\Users\zengx\Desktop\all\sanf (591).dae
+Error 101: Too few intersection points!
+Building 591 C:\Users\zengx\Desktop\all\sanf (592).dae
+Error 101: Too few intersection points!
+Building 592 C:\Users\zengx\Desktop\all\sanf (593).dae
+
+Building 593 C:\Users\zengx\Desktop\all\sanf (594).dae
+Error 100: Failed to find next point!
+Building 594 C:\Users\zengx\Desktop\all\sanf (595).dae
+
+Building 595 C:\Users\zengx\Desktop\all\sanf (596).dae
+
+Building 596 C:\Users\zengx\Desktop\all\sanf (597).dae
+
+Building 597 C:\Users\zengx\Desktop\all\sanf (598).dae
+Error 100: Failed to find next point!
+Building 598 C:\Users\zengx\Desktop\all\sanf (599).dae
+
+Building 599 C:\Users\zengx\Desktop\all\sanf (600).dae
+
+Building 600 C:\Users\zengx\Desktop\all\sanf (601).dae
+
+Building 601 C:\Users\zengx\Desktop\all\sanf (602).dae
+Error 101: Too few intersection points!
+Building 602 C:\Users\zengx\Desktop\all\sanf (603).dae
+
+Building 603 C:\Users\zengx\Desktop\all\sanf (604).dae
+Error 100: Failed to find next point!
+Building 604 C:\Users\zengx\Desktop\all\sanf (605).dae
+
+Building 605 C:\Users\zengx\Desktop\all\sanf (606).dae
+
+Building 606 C:\Users\zengx\Desktop\all\sanf (607).dae
+Error 100: Failed to find next point!
+Building 607 C:\Users\zengx\Desktop\all\sanf (608).dae
+
+Building 608 C:\Users\zengx\Desktop\all\sanf (609).dae
+
+Building 609 C:\Users\zengx\Desktop\all\sanf (610).dae
+
+Building 610 C:\Users\zengx\Desktop\all\sanf (611).dae
+
+Building 611 C:\Users\zengx\Desktop\all\sanf (612).dae
+
+Building 612 C:\Users\zengx\Desktop\all\sanf (613).dae
+
+Building 613 C:\Users\zengx\Desktop\all\sanf (614).dae
+
+Building 614 C:\Users\zengx\Desktop\all\sanf (615).dae
+
+Building 615 C:\Users\zengx\Desktop\all\sanf (616).dae
+
+Building 616 C:\Users\zengx\Desktop\all\sanf (617).dae
+Error 101: Too few intersection points!
+Building 617 C:\Users\zengx\Desktop\all\sanf (618).dae
+Error 100: Failed to find next point!
+Building 618 C:\Users\zengx\Desktop\all\sanf (619).dae
+
+Building 619 C:\Users\zengx\Desktop\all\sanf (620).dae
+
+Building 620 C:\Users\zengx\Desktop\all\sanf (621).dae
+
+Building 621 C:\Users\zengx\Desktop\all\sanf (622).dae
+
+Building 622 C:\Users\zengx\Desktop\all\sanf (623).dae
+
+Building 623 C:\Users\zengx\Desktop\all\sanf (624).dae
+
+Building 624 C:\Users\zengx\Desktop\all\sanf (625).dae
+Error 101: Too few intersection points!
+Building 625 C:\Users\zengx\Desktop\all\sanf (626).dae
+
+Building 626 C:\Users\zengx\Desktop\all\sanf (627).dae
+
+Building 627 C:\Users\zengx\Desktop\all\sanf (628).dae
+
+Building 628 C:\Users\zengx\Desktop\all\sanf (629).dae
+
+Building 629 C:\Users\zengx\Desktop\all\sanf (630).dae
+
+Building 630 C:\Users\zengx\Desktop\all\sanf (631).dae
+
+Building 631 C:\Users\zengx\Desktop\all\sanf (632).dae
+
+Building 632 C:\Users\zengx\Desktop\all\sanf (633).dae
+
+Building 633 C:\Users\zengx\Desktop\all\sanf (634).dae
+
+Building 634 C:\Users\zengx\Desktop\all\sanf (635).dae
+
+Building 635 C:\Users\zengx\Desktop\all\sanf (636).dae
+Error 100: Failed to find next point!
+Building 636 C:\Users\zengx\Desktop\all\sanf (637).dae
+
+Building 637 C:\Users\zengx\Desktop\all\sanf (638).dae
+
+Building 638 C:\Users\zengx\Desktop\all\sanf (639).dae
+
+Building 639 C:\Users\zengx\Desktop\all\sanf (640).dae
+
+Building 640 C:\Users\zengx\Desktop\all\sanf (641).dae
+
+Building 641 C:\Users\zengx\Desktop\all\sanf (642).dae
+
+Building 642 C:\Users\zengx\Desktop\all\sanf (643).dae
+
+Building 643 C:\Users\zengx\Desktop\all\sanf (644).dae
+
+Building 644 C:\Users\zengx\Desktop\all\sanf (645).dae
+
+Building 645 C:\Users\zengx\Desktop\all\sanf (646).dae
+Error 100: Failed to find next point!
+Building 646 C:\Users\zengx\Desktop\all\sanf (647).dae
+
+Building 647 C:\Users\zengx\Desktop\all\sanf (648).dae
+
+Building 648 C:\Users\zengx\Desktop\all\sanf (649).dae
+
+Building 649 C:\Users\zengx\Desktop\all\sanf (650).dae
+
+Building 650 C:\Users\zengx\Desktop\all\sanf (651).dae
+
+Building 651 C:\Users\zengx\Desktop\all\sanf (652).dae
+
+Building 652 C:\Users\zengx\Desktop\all\sanf (653).dae
+
+Building 653 C:\Users\zengx\Desktop\all\sanf (654).dae
+
+Building 654 C:\Users\zengx\Desktop\all\sanf (655).dae
+
+Building 655 C:\Users\zengx\Desktop\all\sanf (656).dae
+
+Building 656 C:\Users\zengx\Desktop\all\sanf (657).dae
+
+Building 657 C:\Users\zengx\Desktop\all\sanf (658).dae
+
+Building 658 C:\Users\zengx\Desktop\all\sanf (659).dae
+
+Building 659 C:\Users\zengx\Desktop\all\sanf (660).dae
+
+Building 660 C:\Users\zengx\Desktop\all\sanf (661).dae
+
+Building 661 C:\Users\zengx\Desktop\all\sanf (662).dae
+
+Building 662 C:\Users\zengx\Desktop\all\sanf (663).dae
+
+Building 663 C:\Users\zengx\Desktop\all\sanf (664).dae
+
+Building 664 C:\Users\zengx\Desktop\all\sanf (665).dae
+
+Building 665 C:\Users\zengx\Desktop\all\sanf (666).dae
+
+Building 666 C:\Users\zengx\Desktop\all\sanf (667).dae
+
+Building 667 C:\Users\zengx\Desktop\all\sanf (668).dae
+
+Building 668 C:\Users\zengx\Desktop\all\sanf (669).dae
+
+Building 669 C:\Users\zengx\Desktop\all\sanf (670).dae
+
+Building 670 C:\Users\zengx\Desktop\all\sanf (671).dae
+
+Building 671 C:\Users\zengx\Desktop\all\sanf (672).dae
+
+Building 672 C:\Users\zengx\Desktop\all\sanf (673).dae
+
+Building 673 C:\Users\zengx\Desktop\all\sanf (674).dae
+Error 100: Failed to find next point!
+Building 674 C:\Users\zengx\Desktop\all\sanf (675).dae
+
+Building 675 C:\Users\zengx\Desktop\all\sanf (676).dae
+
+Building 676 C:\Users\zengx\Desktop\all\sanf (677).dae
+
+Building 677 C:\Users\zengx\Desktop\all\sanf (678).dae
+
+Building 678 C:\Users\zengx\Desktop\all\sanf (679).dae
+
+Building 679 C:\Users\zengx\Desktop\all\sanf (680).dae
+
+Building 680 C:\Users\zengx\Desktop\all\sanf (681).dae
+
+Building 681 C:\Users\zengx\Desktop\all\sanf (682).dae
+
+Building 682 C:\Users\zengx\Desktop\all\sanf (683).dae
+
+Building 683 C:\Users\zengx\Desktop\all\sanf (684).dae
+
+Building 684 C:\Users\zengx\Desktop\all\sanf (685).dae
+
+Building 685 C:\Users\zengx\Desktop\all\sanf (686).dae
+
+Building 686 C:\Users\zengx\Desktop\all\sanf (687).dae
+
+Building 687 C:\Users\zengx\Desktop\all\sanf (688).dae
+
+Building 688 C:\Users\zengx\Desktop\all\sanf (689).dae
+
+Building 689 C:\Users\zengx\Desktop\all\sanf (690).dae
+
+Building 690 C:\Users\zengx\Desktop\all\sanf (691).dae
+
+Building 691 C:\Users\zengx\Desktop\all\sanf (692).dae
+
+Building 692 C:\Users\zengx\Desktop\all\sanf (693).dae
+
+Building 693 C:\Users\zengx\Desktop\all\sanf (694).dae
+
+Building 694 C:\Users\zengx\Desktop\all\sanf (695).dae
+
+Building 695 C:\Users\zengx\Desktop\all\sanf (696).dae
+Error 100: Failed to find next point!
+Building 696 C:\Users\zengx\Desktop\all\sanf (697).dae
+Error 100: Failed to find next point!
+Building 697 C:\Users\zengx\Desktop\all\sanf (698).dae
+
+Building 698 C:\Users\zengx\Desktop\all\sanf (699).dae
+
+Building 699 C:\Users\zengx\Desktop\all\sanf (700).dae
+
+Building 700 C:\Users\zengx\Desktop\all\sanf (701).dae
+
+Building 701 C:\Users\zengx\Desktop\all\sanf (702).dae
+
+Building 702 C:\Users\zengx\Desktop\all\sanf (703).dae
+Error 100: Failed to find next point!
+Building 703 C:\Users\zengx\Desktop\all\sanf (704).dae
+
+Building 704 C:\Users\zengx\Desktop\all\sanf (705).dae
+
+Building 705 C:\Users\zengx\Desktop\all\sanf (706).dae
+
+Building 706 C:\Users\zengx\Desktop\all\sanf (707).dae
+
+Building 707 C:\Users\zengx\Desktop\all\sanf (708).dae
+
+Building 708 C:\Users\zengx\Desktop\all\sanf (709).dae
+
+Building 709 C:\Users\zengx\Desktop\all\sanf (710).dae
+
+Building 710 C:\Users\zengx\Desktop\all\sanf (711).dae
+
+Building 711 C:\Users\zengx\Desktop\all\sanf (712).dae
+
+Building 712 C:\Users\zengx\Desktop\all\sanf (713).dae
+
+Building 713 C:\Users\zengx\Desktop\all\sanf (714).dae
+
+Building 714 C:\Users\zengx\Desktop\all\sanf (715).dae
+
+Building 715 C:\Users\zengx\Desktop\all\sanf (716).dae
+
+Building 716 C:\Users\zengx\Desktop\all\sanf (717).dae
+
+Building 717 C:\Users\zengx\Desktop\all\sanf (718).dae
+
+Building 718 C:\Users\zengx\Desktop\all\sanf (719).dae
+
+Building 719 C:\Users\zengx\Desktop\all\sanf (720).dae
+Error 100: Failed to find next point!
+Building 720 C:\Users\zengx\Desktop\all\sanf (721).dae
+
+Building 721 C:\Users\zengx\Desktop\all\sanf (722).dae
+
+Building 722 C:\Users\zengx\Desktop\all\sanf (723).dae
+
+Building 723 C:\Users\zengx\Desktop\all\sanf (724).dae
+
+Building 724 C:\Users\zengx\Desktop\all\sanf (725).dae
+Error 100: Failed to find next point!
+Building 725 C:\Users\zengx\Desktop\all\sanf (726).dae
+
+Building 726 C:\Users\zengx\Desktop\all\sanf (727).dae
+
+Building 727 C:\Users\zengx\Desktop\all\sanf (728).dae
+
+Building 728 C:\Users\zengx\Desktop\all\sanf (729).dae
+
+Building 729 C:\Users\zengx\Desktop\all\sanf (730).dae
+
+Building 730 C:\Users\zengx\Desktop\all\sanf (731).dae
+
+Building 731 C:\Users\zengx\Desktop\all\sanf (732).dae
+Error 100: Failed to find next point!
+Building 732 C:\Users\zengx\Desktop\all\sanf (733).dae
+
+Building 733 C:\Users\zengx\Desktop\all\sanf (734).dae
+Error 100: Failed to find next point!
+Building 734 C:\Users\zengx\Desktop\all\sanf (735).dae
+
+Building 735 C:\Users\zengx\Desktop\all\sanf (736).dae
+Error 100: Failed to find next point!
+Building 736 C:\Users\zengx\Desktop\all\sanf (737).dae
+Error 100: Failed to find next point!
+Building 737 C:\Users\zengx\Desktop\all\sanf (738).dae
+Error 100: Failed to find next point!
+Building 738 C:\Users\zengx\Desktop\all\sanf (739).dae
+Error 100: Failed to find next point!
+Building 739 C:\Users\zengx\Desktop\all\sanf (740).dae
+
+Building 740 C:\Users\zengx\Desktop\all\sanf (741).dae
+Error 100: Failed to find next point!
+Building 741 C:\Users\zengx\Desktop\all\sanf (742).dae
+
+Building 742 C:\Users\zengx\Desktop\all\sanf (743).dae
+
+Building 743 C:\Users\zengx\Desktop\all\sanf (744).dae
+
+Building 744 C:\Users\zengx\Desktop\all\sanf (745).dae
+Error 100: Failed to find next point!
+Building 745 C:\Users\zengx\Desktop\all\sanf (746).dae
+
+Building 746 C:\Users\zengx\Desktop\all\sanf (747).dae
+
+Building 747 C:\Users\zengx\Desktop\all\sanf (748).dae
+
+Building 748 C:\Users\zengx\Desktop\all\sanf (749).dae
+
+Building 749 C:\Users\zengx\Desktop\all\sanf (750).dae
+
+Building 750 C:\Users\zengx\Desktop\all\sanf (751).dae
+
+Building 751 C:\Users\zengx\Desktop\all\sanf (752).dae
+
+Building 752 C:\Users\zengx\Desktop\all\sanf (753).dae
+
+Building 753 C:\Users\zengx\Desktop\all\sanf (754).dae
+
+Building 754 C:\Users\zengx\Desktop\all\sanf (755).dae
+
+Building 755 C:\Users\zengx\Desktop\all\sanf (756).dae
+
+Building 756 C:\Users\zengx\Desktop\all\sanf (757).dae
+
+Building 757 C:\Users\zengx\Desktop\all\sanf (758).dae
+
+Building 758 C:\Users\zengx\Desktop\all\sanf (759).dae
+Error 100: Failed to find next point!
+Building 759 C:\Users\zengx\Desktop\all\sanf (760).dae
+
+Building 760 C:\Users\zengx\Desktop\all\sanf (761).dae
+
+Building 761 C:\Users\zengx\Desktop\all\sanf (762).dae
+Error 100: Failed to find next point!
+Building 762 C:\Users\zengx\Desktop\all\sanf (763).dae
+
+Building 763 C:\Users\zengx\Desktop\all\sanf (764).dae
+
+Building 764 C:\Users\zengx\Desktop\all\sanf (765).dae
+
+Building 765 C:\Users\zengx\Desktop\all\sanf (766).dae
+Error 100: Failed to find next point!
+Building 766 C:\Users\zengx\Desktop\all\sanf (767).dae
+
+Building 767 C:\Users\zengx\Desktop\all\sanf (768).dae
+
+Building 768 C:\Users\zengx\Desktop\all\sanf (769).dae
+
+Building 769 C:\Users\zengx\Desktop\all\sanf (770).dae
+
+Building 770 C:\Users\zengx\Desktop\all\sanf (771).dae
+
+Building 771 C:\Users\zengx\Desktop\all\sanf (772).dae
+
+Building 772 C:\Users\zengx\Desktop\all\sanf (773).dae
+
+Building 773 C:\Users\zengx\Desktop\all\sanf (774).dae
+
+Building 774 C:\Users\zengx\Desktop\all\sanf (775).dae
+
+Building 775 C:\Users\zengx\Desktop\all\sanf (776).dae
+
+Building 776 C:\Users\zengx\Desktop\all\sanf (777).dae
+
+Building 777 C:\Users\zengx\Desktop\all\sanf (778).dae
+
+Building 778 C:\Users\zengx\Desktop\all\sanf (779).dae
+
+Building 779 C:\Users\zengx\Desktop\all\sanf (780).dae
+
+Building 780 C:\Users\zengx\Desktop\all\sanf (781).dae
+
+Building 781 C:\Users\zengx\Desktop\all\sanf (782).dae
+
+Building 782 C:\Users\zengx\Desktop\all\sanf (783).dae
+
+Building 783 C:\Users\zengx\Desktop\all\sanf (784).dae
+
+Building 784 C:\Users\zengx\Desktop\all\sanf (785).dae
+
+Building 785 C:\Users\zengx\Desktop\all\sanf (786).dae
+
+Building 786 C:\Users\zengx\Desktop\all\sanf (787).dae
+
+Building 787 C:\Users\zengx\Desktop\all\sanf (788).dae
+
+Building 788 C:\Users\zengx\Desktop\all\sanf (789).dae
+
+Building 789 C:\Users\zengx\Desktop\all\sanf (790).dae
+
+Building 790 C:\Users\zengx\Desktop\all\sanf (791).dae
+
+Building 791 C:\Users\zengx\Desktop\all\sanf (792).dae
+
+Building 792 C:\Users\zengx\Desktop\all\sanf (793).dae
+
+Building 793 C:\Users\zengx\Desktop\all\sanf (794).dae
+
+Building 794 C:\Users\zengx\Desktop\all\sanf (795).dae
+
+Building 795 C:\Users\zengx\Desktop\all\sanf (796).dae
+
+Building 796 C:\Users\zengx\Desktop\all\sanf (797).dae
+
+Building 797 C:\Users\zengx\Desktop\all\sanf (798).dae
+
+Building 798 C:\Users\zengx\Desktop\all\sanf (799).dae
+
+Building 799 C:\Users\zengx\Desktop\all\sanf (800).dae
+
+Building 800 C:\Users\zengx\Desktop\all\sanf (801).dae
+
+Building 801 C:\Users\zengx\Desktop\all\sanf (802).dae
+
+Building 802 C:\Users\zengx\Desktop\all\sanf (803).dae
+
+Building 803 C:\Users\zengx\Desktop\all\sanf (804).dae
+
+Building 804 C:\Users\zengx\Desktop\all\sanf (805).dae
+
+Building 805 C:\Users\zengx\Desktop\all\sanf (806).dae
+
+Building 806 C:\Users\zengx\Desktop\all\sanf (807).dae
+
+Building 807 C:\Users\zengx\Desktop\all\sanf (808).dae
+
+Building 808 C:\Users\zengx\Desktop\all\sanf (809).dae
+
+Building 809 C:\Users\zengx\Desktop\all\sanf (810).dae
+
+Building 810 C:\Users\zengx\Desktop\all\sanf (811).dae
+
+Building 811 C:\Users\zengx\Desktop\all\sanf (812).dae
+
+Building 812 C:\Users\zengx\Desktop\all\sanf (813).dae
+
+Building 813 C:\Users\zengx\Desktop\all\sanf (814).dae
+
+Building 814 C:\Users\zengx\Desktop\all\sanf (815).dae
+
+Building 815 C:\Users\zengx\Desktop\all\sanf (816).dae
+
+Building 816 C:\Users\zengx\Desktop\all\sanf (817).dae
+
+Building 817 C:\Users\zengx\Desktop\all\sanf (818).dae
+
+Building 818 C:\Users\zengx\Desktop\all\sanf (819).dae
+
+Building 819 C:\Users\zengx\Desktop\all\sanf (820).dae
+
+Building 820 C:\Users\zengx\Desktop\all\sanf (821).dae
+
+Building 821 C:\Users\zengx\Desktop\all\sanf (822).dae
+
+Building 822 C:\Users\zengx\Desktop\all\sanf (823).dae
+
+Building 823 C:\Users\zengx\Desktop\all\sanf (824).dae
+
+Building 824 C:\Users\zengx\Desktop\all\sanf (825).dae
+
+Building 825 C:\Users\zengx\Desktop\all\sanf (826).dae
+
+Building 826 C:\Users\zengx\Desktop\all\sanf (827).dae
+
+Building 827 C:\Users\zengx\Desktop\all\sanf (828).dae
+
+Building 828 C:\Users\zengx\Desktop\all\sanf (829).dae
+
+Building 829 C:\Users\zengx\Desktop\all\sanf (830).dae
+
+Building 830 C:\Users\zengx\Desktop\all\sanf (831).dae
+
+Building 831 C:\Users\zengx\Desktop\all\sanf (832).dae
+
+Building 832 C:\Users\zengx\Desktop\all\sanf (833).dae
+
+Building 833 C:\Users\zengx\Desktop\all\sanf (834).dae
+
+Building 834 C:\Users\zengx\Desktop\all\sanf (835).dae
+
+Building 835 C:\Users\zengx\Desktop\all\sanf (836).dae
+
+Building 836 C:\Users\zengx\Desktop\all\sanf (837).dae
+
+Building 837 C:\Users\zengx\Desktop\all\sanf (838).dae
+
+Building 838 C:\Users\zengx\Desktop\all\sanf (839).dae
+
+Building 839 C:\Users\zengx\Desktop\all\sanf (840).dae
+
+Building 840 C:\Users\zengx\Desktop\all\sanf (841).dae
+
+Building 841 C:\Users\zengx\Desktop\all\sanf (842).dae
+
+Building 842 C:\Users\zengx\Desktop\all\sanf (843).dae
+
+Building 843 C:\Users\zengx\Desktop\all\sanf (844).dae
+
+Building 844 C:\Users\zengx\Desktop\all\sanf (845).dae
+
+Building 845 C:\Users\zengx\Desktop\all\sanf (846).dae
+Error 100: Failed to find next point!
+Building 846 C:\Users\zengx\Desktop\all\sanf (847).dae
+
+Building 847 C:\Users\zengx\Desktop\all\sanf (848).dae
+
+Building 848 C:\Users\zengx\Desktop\all\sanf (849).dae
+
+Building 849 C:\Users\zengx\Desktop\all\sanf (850).dae
+
+Building 850 C:\Users\zengx\Desktop\all\sanf (851).dae
+
+Building 851 C:\Users\zengx\Desktop\all\sanf (852).dae
+
+Building 852 C:\Users\zengx\Desktop\all\sanf (853).dae
+
+Building 853 C:\Users\zengx\Desktop\all\sanf (854).dae
+Error 100: Failed to find next point!
+Building 854 C:\Users\zengx\Desktop\all\sanf (855).dae
+
+Building 855 C:\Users\zengx\Desktop\all\sanf (856).dae
+
+Building 856 C:\Users\zengx\Desktop\all\sanf (857).dae
+
+Building 857 C:\Users\zengx\Desktop\all\sanf (858).dae
+
+Building 858 C:\Users\zengx\Desktop\all\sanf (859).dae
+
+Building 859 C:\Users\zengx\Desktop\all\sanf (860).dae
+
+Building 860 C:\Users\zengx\Desktop\all\sanf (861).dae
+
+Building 861 C:\Users\zengx\Desktop\all\sanf (862).dae
+
+Building 862 C:\Users\zengx\Desktop\all\sanf (863).dae
+
+Building 863 C:\Users\zengx\Desktop\all\sanf (864).dae
+
+Building 864 C:\Users\zengx\Desktop\all\sanf (865).dae
+
+Building 865 C:\Users\zengx\Desktop\all\sanf (866).dae
+
+Building 866 C:\Users\zengx\Desktop\all\sanf (867).dae
+
+Building 867 C:\Users\zengx\Desktop\all\sanf (868).dae
+
+Building 868 C:\Users\zengx\Desktop\all\sanf (869).dae
+
+Building 869 C:\Users\zengx\Desktop\all\sanf (870).dae
+
+Building 870 C:\Users\zengx\Desktop\all\sanf (871).dae
+
+Building 871 C:\Users\zengx\Desktop\all\sanf (872).dae
+
+Building 872 C:\Users\zengx\Desktop\all\sanf (873).dae
+
+Building 873 C:\Users\zengx\Desktop\all\sanf (874).dae
+
+Building 874 C:\Users\zengx\Desktop\all\sanf (875).dae
+
+Building 875 C:\Users\zengx\Desktop\all\sanf (876).dae
+
+Building 876 C:\Users\zengx\Desktop\all\sanf (877).dae
+
+Building 877 C:\Users\zengx\Desktop\all\sanf (878).dae
+
+Building 878 C:\Users\zengx\Desktop\all\sanf (879).dae
+
+Building 879 C:\Users\zengx\Desktop\all\sanf (880).dae
+
+Building 880 C:\Users\zengx\Desktop\all\sanf (881).dae
+
+Building 881 C:\Users\zengx\Desktop\all\sanf (882).dae
+
+Building 882 C:\Users\zengx\Desktop\all\sanf (883).dae
+
+Building 883 C:\Users\zengx\Desktop\all\sanf (884).dae
+
+Building 884 C:\Users\zengx\Desktop\all\sanf (885).dae
+
+Building 885 C:\Users\zengx\Desktop\all\sanf (886).dae
+
+Building 886 C:\Users\zengx\Desktop\all\sanf (887).dae
+
+Building 887 C:\Users\zengx\Desktop\all\sanf (888).dae
+
+Building 888 C:\Users\zengx\Desktop\all\sanf (889).dae
+
+Building 889 C:\Users\zengx\Desktop\all\sanf (890).dae
+
+Building 890 C:\Users\zengx\Desktop\all\sanf (891).dae
+Error 100: Failed to find next point!
+Building 891 C:\Users\zengx\Desktop\all\sanf (892).dae
+
+Building 892 C:\Users\zengx\Desktop\all\sanf (893).dae
+
+Building 893 C:\Users\zengx\Desktop\all\sanf (894).dae
+
+Building 894 C:\Users\zengx\Desktop\all\sanf (895).dae
+
+Building 895 C:\Users\zengx\Desktop\all\sanf (896).dae
+
+Building 896 C:\Users\zengx\Desktop\all\sanf (897).dae
+
+Building 897 C:\Users\zengx\Desktop\all\sanf (898).dae
+
+Building 898 C:\Users\zengx\Desktop\all\sanf (899).dae
+
+Building 899 C:\Users\zengx\Desktop\all\sanf (900).dae
+
+Building 900 C:\Users\zengx\Desktop\all\sanf (901).dae
+
+Building 901 C:\Users\zengx\Desktop\all\sanf (902).dae
+
+Building 902 C:\Users\zengx\Desktop\all\sanf (903).dae
+Error 100: Failed to find next point!
+Building 903 C:\Users\zengx\Desktop\all\sanf (904).dae
+Error 101: Too few intersection points!
+Building 904 C:\Users\zengx\Desktop\all\sanf (905).dae
+
+Building 905 C:\Users\zengx\Desktop\all\sanf (906).dae
+
+Building 906 C:\Users\zengx\Desktop\all\sanf (907).dae
+
+Building 907 C:\Users\zengx\Desktop\all\sanf (908).dae
+Error 100: Failed to find next point!
+Building 908 C:\Users\zengx\Desktop\all\sanf (909).dae
+Error 100: Failed to find next point!
+Building 909 C:\Users\zengx\Desktop\all\sanf (910).dae
+
+Building 910 C:\Users\zengx\Desktop\all\sanf (911).dae
+Error 100: Failed to find next point!
+Building 911 C:\Users\zengx\Desktop\all\sanf (912).dae
+
+Building 912 C:\Users\zengx\Desktop\all\sanf (913).dae
+
+Building 913 C:\Users\zengx\Desktop\all\sanf (914).dae
+
+Building 914 C:\Users\zengx\Desktop\all\sanf (915).dae
+
+Building 915 C:\Users\zengx\Desktop\all\sanf (916).dae
+
+Building 916 C:\Users\zengx\Desktop\all\sanf (917).dae
+
+Building 917 C:\Users\zengx\Desktop\all\sanf (918).dae
+Error 100: Failed to find next point!
+Building 918 C:\Users\zengx\Desktop\all\sanf (919).dae
+
+Building 919 C:\Users\zengx\Desktop\all\sanf (920).dae
+
+Building 920 C:\Users\zengx\Desktop\all\sanf (921).dae
+Error 100: Failed to find next point!
+Building 921 C:\Users\zengx\Desktop\all\sanf (922).dae
+
+Building 922 C:\Users\zengx\Desktop\all\sanf (923).dae
+
+Building 923 C:\Users\zengx\Desktop\all\sanf (924).dae
+
+Building 924 C:\Users\zengx\Desktop\all\sanf (925).dae
+
+Building 925 C:\Users\zengx\Desktop\all\sanf (926).dae
+
+Building 926 C:\Users\zengx\Desktop\all\sanf (927).dae
+
+Building 927 C:\Users\zengx\Desktop\all\sanf (928).dae
+
+Building 928 C:\Users\zengx\Desktop\all\sanf (929).dae
+
+Building 929 C:\Users\zengx\Desktop\all\sanf (930).dae
+
+Building 930 C:\Users\zengx\Desktop\all\sanf (931).dae
+
+Building 931 C:\Users\zengx\Desktop\all\sanf (932).dae
+
+Building 932 C:\Users\zengx\Desktop\all\sanf (933).dae
+
+Building 933 C:\Users\zengx\Desktop\all\sanf (934).dae
+
+Building 934 C:\Users\zengx\Desktop\all\sanf (935).dae
+Error 100: Failed to find next point!
+Building 935 C:\Users\zengx\Desktop\all\sanf (936).dae
+
+Building 936 C:\Users\zengx\Desktop\all\sanf (937).dae
+
+Building 937 C:\Users\zengx\Desktop\all\sanf (938).dae
+Error 100: Failed to find next point!
+Building 938 C:\Users\zengx\Desktop\all\sanf (939).dae
+Error 100: Failed to find next point!
+Building 939 C:\Users\zengx\Desktop\all\sanf (940).dae
+Error 100: Failed to find next point!
+Building 940 C:\Users\zengx\Desktop\all\sanf (941).dae
+Error 100: Failed to find next point!
+Building 941 C:\Users\zengx\Desktop\all\sanf (942).dae
+
+Building 942 C:\Users\zengx\Desktop\all\sanf (943).dae
+Error 100: Failed to find next point!
+Building 943 C:\Users\zengx\Desktop\all\sanf (944).dae
+
+Building 944 C:\Users\zengx\Desktop\all\sanf (945).dae
+
+Building 945 C:\Users\zengx\Desktop\all\sanf (946).dae
+Error 100: Failed to find next point!
+Building 946 C:\Users\zengx\Desktop\all\sanf (947).dae
+
+Building 947 C:\Users\zengx\Desktop\all\sanf (948).dae
+
+Building 948 C:\Users\zengx\Desktop\all\sanf (949).dae
+
+Building 949 C:\Users\zengx\Desktop\all\sanf (950).dae
+
+Building 950 C:\Users\zengx\Desktop\all\sanf (951).dae
+
+Building 951 C:\Users\zengx\Desktop\all\sanf (952).dae
+
+Building 952 C:\Users\zengx\Desktop\all\sanf (953).dae
+
+Building 953 C:\Users\zengx\Desktop\all\sanf (954).dae
+
+Building 954 C:\Users\zengx\Desktop\all\sanf (955).dae
+
+Building 955 C:\Users\zengx\Desktop\all\sanf (956).dae
+Error 100: Failed to find next point!
+Building 956 C:\Users\zengx\Desktop\all\sanf (957).dae
+
+Building 957 C:\Users\zengx\Desktop\all\sanf (958).dae
+Error 100: Failed to find next point!
+Building 958 C:\Users\zengx\Desktop\all\sanf (959).dae
+
+Building 959 C:\Users\zengx\Desktop\all\sanf (960).dae
+
+Building 960 C:\Users\zengx\Desktop\all\sanf (961).dae
+
+Building 961 C:\Users\zengx\Desktop\all\sanf (962).dae
+
+Building 962 C:\Users\zengx\Desktop\all\sanf (963).dae
+
+Building 963 C:\Users\zengx\Desktop\all\sanf (964).dae
+
+Building 964 C:\Users\zengx\Desktop\all\sanf (965).dae
+
+Building 965 C:\Users\zengx\Desktop\all\sanf (966).dae
+
+Building 966 C:\Users\zengx\Desktop\all\sanf (967).dae
+
+Building 967 C:\Users\zengx\Desktop\all\sanf (968).dae
+
+Building 968 C:\Users\zengx\Desktop\all\sanf (969).dae
+
+Building 969 C:\Users\zengx\Desktop\all\sanf (970).dae
+
+Building 970 C:\Users\zengx\Desktop\all\sanf (971).dae
+
+Building 971 C:\Users\zengx\Desktop\all\sanf (972).dae
+
+Building 972 C:\Users\zengx\Desktop\all\sanf (973).dae
+
+Building 973 C:\Users\zengx\Desktop\all\sanf (974).dae
+
+Building 974 C:\Users\zengx\Desktop\all\sanf (975).dae
+
+Building 975 C:\Users\zengx\Desktop\all\sanf (976).dae
+
+Building 976 C:\Users\zengx\Desktop\all\sanf (977).dae
+
+Building 977 C:\Users\zengx\Desktop\all\sanf (978).dae
+
+Building 978 C:\Users\zengx\Desktop\all\sanf (979).dae
+
+Building 979 C:\Users\zengx\Desktop\all\sanf (980).dae
+
+Building 980 C:\Users\zengx\Desktop\all\sanf (981).dae
+
+Building 981 C:\Users\zengx\Desktop\all\sanf (982).dae
+
+Building 982 C:\Users\zengx\Desktop\all\sanf (983).dae
+
+Building 983 C:\Users\zengx\Desktop\all\sanf (984).dae
+
+Building 984 C:\Users\zengx\Desktop\all\sanf (985).dae
+
+Building 985 C:\Users\zengx\Desktop\all\sanf (986).dae
+
+Building 986 C:\Users\zengx\Desktop\all\sanf (987).dae
+
+Building 987 C:\Users\zengx\Desktop\all\sanf (988).dae
+
+Building 988 C:\Users\zengx\Desktop\all\sanf (989).dae
+
+Building 989 C:\Users\zengx\Desktop\all\sanf (990).dae
+
+Building 990 C:\Users\zengx\Desktop\all\sanf (991).dae
+
+Building 991 C:\Users\zengx\Desktop\all\sanf (992).dae
+Error 101: Too few intersection points!
+Building 992 C:\Users\zengx\Desktop\all\sanf (993).dae
+
+Building 993 C:\Users\zengx\Desktop\all\sanf (994).dae
+
+Building 994 C:\Users\zengx\Desktop\all\sanf (995).dae
+
+Building 995 C:\Users\zengx\Desktop\all\sanf (996).dae
+
+Building 996 C:\Users\zengx\Desktop\all\sanf (997).dae
+
+Building 997 C:\Users\zengx\Desktop\all\sanf (998).dae
+
+Building 998 C:\Users\zengx\Desktop\all\sanf (999).dae
+
+Building 999 C:\Users\zengx\Desktop\all\sanf (1000).dae
+
+Building 1000 C:\Users\zengx\Desktop\all\sanf (1001).dae
+
+Building 1001 C:\Users\zengx\Desktop\all\sanf (1002).dae
+
+Building 1002 C:\Users\zengx\Desktop\all\sanf (1003).dae
+
+Building 1003 C:\Users\zengx\Desktop\all\sanf (1004).dae
+
+Building 1004 C:\Users\zengx\Desktop\all\sanf (1005).dae
+
+Building 1005 C:\Users\zengx\Desktop\all\sanf (1006).dae
+Error 101: Too few intersection points!
+Building 1006 C:\Users\zengx\Desktop\all\sanf (1007).dae
+
+Building 1007 C:\Users\zengx\Desktop\all\sanf (1008).dae
+
+Building 1008 C:\Users\zengx\Desktop\all\sanf (1009).dae
+
+Building 1009 C:\Users\zengx\Desktop\all\sanf (1010).dae
+
+Building 1010 C:\Users\zengx\Desktop\all\sanf (1011).dae
+
+Building 1011 C:\Users\zengx\Desktop\all\sanf (1012).dae
+Error 101: Too few intersection points!
+Building 1012 C:\Users\zengx\Desktop\all\sanf (1013).dae
+
+Building 1013 C:\Users\zengx\Desktop\all\sanf (1014).dae
+
+Building 1014 C:\Users\zengx\Desktop\all\sanf (1015).dae
+
+Building 1015 C:\Users\zengx\Desktop\all\sanf (1016).dae
+
+Building 1016 C:\Users\zengx\Desktop\all\sanf (1017).dae
+
+Building 1017 C:\Users\zengx\Desktop\all\sanf (1018).dae
+
+Building 1018 C:\Users\zengx\Desktop\all\sanf (1019).dae
+
+Building 1019 C:\Users\zengx\Desktop\all\sanf (1020).dae
+
+Building 1020 C:\Users\zengx\Desktop\all\sanf (1021).dae
+
+Building 1021 C:\Users\zengx\Desktop\all\sanf (1022).dae
+
+Building 1022 C:\Users\zengx\Desktop\all\sanf (1023).dae
+
+Building 1023 C:\Users\zengx\Desktop\all\sanf (1024).dae
+
+Building 1024 C:\Users\zengx\Desktop\all\sanf (1025).dae
+Error 101: Too few intersection points!
+Building 1025 C:\Users\zengx\Desktop\all\sanf (1026).dae
+
+Building 1026 C:\Users\zengx\Desktop\all\sanf (1027).dae
+
+Building 1027 C:\Users\zengx\Desktop\all\sanf (1028).dae
+
+Building 1028 C:\Users\zengx\Desktop\all\sanf (1029).dae
+
+Building 1029 C:\Users\zengx\Desktop\all\sanf (1030).dae
+
+Building 1030 C:\Users\zengx\Desktop\all\sanf (1031).dae
+
+Building 1031 C:\Users\zengx\Desktop\all\sanf (1032).dae
+
+Building 1032 C:\Users\zengx\Desktop\all\sanf (1033).dae
+
+Building 1033 C:\Users\zengx\Desktop\all\sanf (1034).dae
+
+Building 1034 C:\Users\zengx\Desktop\all\sanf (1035).dae
+
+Building 1035 C:\Users\zengx\Desktop\all\sanf (1036).dae
+Error 100: Failed to find next point!
+Building 1036 C:\Users\zengx\Desktop\all\sanf (1037).dae
+
+Building 1037 C:\Users\zengx\Desktop\all\sanf (1038).dae
+
+Building 1038 C:\Users\zengx\Desktop\all\sanf (1039).dae
+
+Building 1039 C:\Users\zengx\Desktop\all\sanf (1040).dae
+
+Building 1040 C:\Users\zengx\Desktop\all\sanf (1041).dae
+
+Building 1041 C:\Users\zengx\Desktop\all\sanf (1042).dae
+
+Building 1042 C:\Users\zengx\Desktop\all\sanf (1043).dae
+
+Building 1043 C:\Users\zengx\Desktop\all\sanf (1044).dae
+
+Building 1044 C:\Users\zengx\Desktop\all\sanf (1045).dae
+
+Building 1045 C:\Users\zengx\Desktop\all\sanf (1046).dae
+
+Building 1046 C:\Users\zengx\Desktop\all\sanf (1047).dae
+
+Building 1047 C:\Users\zengx\Desktop\all\sanf (1048).dae
+
+Building 1048 C:\Users\zengx\Desktop\all\sanf (1049).dae
+
+Building 1049 C:\Users\zengx\Desktop\all\sanf (1050).dae
+
+Building 1050 C:\Users\zengx\Desktop\all\sanf (1051).dae
+
+Building 1051 C:\Users\zengx\Desktop\all\sanf (1052).dae
+
+Building 1052 C:\Users\zengx\Desktop\all\sanf (1053).dae
+
+Building 1053 C:\Users\zengx\Desktop\all\sanf (1054).dae
+
+Building 1054 C:\Users\zengx\Desktop\all\sanf (1055).dae
+
+Building 1055 C:\Users\zengx\Desktop\all\sanf (1056).dae
+
+Building 1056 C:\Users\zengx\Desktop\all\sanf (1057).dae
+Error 100: Failed to find next point!
+Building 1057 C:\Users\zengx\Desktop\all\sanf (1058).dae
+
+Building 1058 C:\Users\zengx\Desktop\all\sanf (1059).dae
+
+Building 1059 C:\Users\zengx\Desktop\all\sanf (1060).dae
+
+Building 1060 C:\Users\zengx\Desktop\all\sanf (1061).dae
+
+Building 1061 C:\Users\zengx\Desktop\all\sanf (1062).dae
+
+Building 1062 C:\Users\zengx\Desktop\all\sanf (1063).dae
+
+Building 1063 C:\Users\zengx\Desktop\all\sanf (1064).dae
+
+Building 1064 C:\Users\zengx\Desktop\all\sanf (1065).dae
+Error 100: Failed to find next point!
+Building 1065 C:\Users\zengx\Desktop\all\sanf (1066).dae
+
+Building 1066 C:\Users\zengx\Desktop\all\sanf (1067).dae
+Error 100: Failed to find next point!
+Building 1067 C:\Users\zengx\Desktop\all\sanf (1068).dae
+
+Building 1068 C:\Users\zengx\Desktop\all\sanf (1069).dae
+Error 100: Failed to find next point!
+Building 1069 C:\Users\zengx\Desktop\all\sanf (1070).dae
+Error 100: Failed to find next point!
+Building 1070 C:\Users\zengx\Desktop\all\sanf (1071).dae
+
+Building 1071 C:\Users\zengx\Desktop\all\sanf (1072).dae
+
+Building 1072 C:\Users\zengx\Desktop\all\sanf (1073).dae
+
+Building 1073 C:\Users\zengx\Desktop\all\sanf (1074).dae
+
+Building 1074 C:\Users\zengx\Desktop\all\sanf (1075).dae
+Error 100: Failed to find next point!
+Building 1075 C:\Users\zengx\Desktop\all\sanf (1076).dae
+
+Building 1076 C:\Users\zengx\Desktop\all\sanf (1077).dae
+
+Building 1077 C:\Users\zengx\Desktop\all\sanf (1078).dae
+
+Building 1078 C:\Users\zengx\Desktop\all\sanf (1079).dae
+
+Building 1079 C:\Users\zengx\Desktop\all\sanf (1080).dae
+
+Building 1080 C:\Users\zengx\Desktop\all\sanf (1081).dae
+
+Building 1081 C:\Users\zengx\Desktop\all\sanf (1082).dae
+
+Building 1082 C:\Users\zengx\Desktop\all\sanf (1083).dae
+Error 101: Too few intersection points!
+Building 1083 C:\Users\zengx\Desktop\all\sanf (1084).dae
+
+Building 1084 C:\Users\zengx\Desktop\all\sanf (1085).dae
+
+Building 1085 C:\Users\zengx\Desktop\all\sanf (1086).dae
+
+Building 1086 C:\Users\zengx\Desktop\all\sanf (1087).dae
+
+Building 1087 C:\Users\zengx\Desktop\all\sanf (1088).dae
+
+Building 1088 C:\Users\zengx\Desktop\all\sanf (1089).dae
+
+Building 1089 C:\Users\zengx\Desktop\all\sanf (1090).dae
+
+Building 1090 C:\Users\zengx\Desktop\all\sanf (1091).dae
+
+Building 1091 C:\Users\zengx\Desktop\all\sanf (1092).dae
+
+Building 1092 C:\Users\zengx\Desktop\all\sanf (1093).dae
+
+Building 1093 C:\Users\zengx\Desktop\all\sanf (1094).dae
+
+Building 1094 C:\Users\zengx\Desktop\all\sanf (1095).dae
+
+Building 1095 C:\Users\zengx\Desktop\all\sanf (1096).dae
+
+Building 1096 C:\Users\zengx\Desktop\all\sanf (1097).dae
+
+Building 1097 C:\Users\zengx\Desktop\all\sanf (1098).dae
+Error 100: Failed to find next point!
+Building 1098 C:\Users\zengx\Desktop\all\sanf (1099).dae
+
+Building 1099 C:\Users\zengx\Desktop\all\sanf (1100).dae
+
+Building 1100 C:\Users\zengx\Desktop\all\sanf (1101).dae
+
+Building 1101 C:\Users\zengx\Desktop\all\sanf (1102).dae
+Error 100: Failed to find next point!
+Building 1102 C:\Users\zengx\Desktop\all\sanf (1103).dae
+
+Building 1103 C:\Users\zengx\Desktop\all\sanf (1104).dae
+
+Building 1104 C:\Users\zengx\Desktop\all\sanf (1105).dae
+
+Building 1105 C:\Users\zengx\Desktop\all\sanf (1106).dae
+
+Building 1106 C:\Users\zengx\Desktop\all\sanf (1107).dae
+Error 101: Too few intersection points!
+Building 1107 C:\Users\zengx\Desktop\all\sanf (1108).dae
+
+Building 1108 C:\Users\zengx\Desktop\all\sanf (1109).dae
+Error 101: Too few intersection points!
+Building 1109 C:\Users\zengx\Desktop\all\sanf (1110).dae
+
+Building 1110 C:\Users\zengx\Desktop\all\sanf (1111).dae
+
+Building 1111 C:\Users\zengx\Desktop\all\sanf (1112).dae
+
+Building 1112 C:\Users\zengx\Desktop\all\sanf (1113).dae
+
+Building 1113 C:\Users\zengx\Desktop\all\sanf (1114).dae
+
+Building 1114 C:\Users\zengx\Desktop\all\sanf (1115).dae
+
+Building 1115 C:\Users\zengx\Desktop\all\sanf (1116).dae
+
+Building 1116 C:\Users\zengx\Desktop\all\sanf (1117).dae
+
+Building 1117 C:\Users\zengx\Desktop\all\sanf (1118).dae
+
+Building 1118 C:\Users\zengx\Desktop\all\sanf (1119).dae
+
+Building 1119 C:\Users\zengx\Desktop\all\sanf (1120).dae
+
+Building 1120 C:\Users\zengx\Desktop\all\sanf (1121).dae
+
+Building 1121 C:\Users\zengx\Desktop\all\sanf (1122).dae
+
+Building 1122 C:\Users\zengx\Desktop\all\sanf (1123).dae
+
+Building 1123 C:\Users\zengx\Desktop\all\sanf (1124).dae
+
+Building 1124 C:\Users\zengx\Desktop\all\sanf (1125).dae
+
+Building 1125 C:\Users\zengx\Desktop\all\sanf (1126).dae
+
+Building 1126 C:\Users\zengx\Desktop\all\sanf (1127).dae
+
+Building 1127 C:\Users\zengx\Desktop\all\sanf (1128).dae
+
+Building 1128 C:\Users\zengx\Desktop\all\sanf (1129).dae
+
+Building 1129 C:\Users\zengx\Desktop\all\sanf (1130).dae
+
+Building 1130 C:\Users\zengx\Desktop\all\sanf (1131).dae
+Error 101: Too few intersection points!
+Building 1131 C:\Users\zengx\Desktop\all\sanf (1132).dae
+
+Building 1132 C:\Users\zengx\Desktop\all\sanf (1133).dae
+
+Building 1133 C:\Users\zengx\Desktop\all\sanf (1134).dae
+
+Building 1134 C:\Users\zengx\Desktop\all\sanf (1135).dae
+
+Building 1135 C:\Users\zengx\Desktop\all\sanf (1136).dae
+
+Building 1136 C:\Users\zengx\Desktop\all\sanf (1137).dae
+
+Building 1137 C:\Users\zengx\Desktop\all\sanf (1138).dae
+
+Building 1138 C:\Users\zengx\Desktop\all\sanf (1139).dae
+
+Building 1139 C:\Users\zengx\Desktop\all\sanf (1140).dae
+
+Building 1140 C:\Users\zengx\Desktop\all\sanf (1141).dae
+
+Building 1141 C:\Users\zengx\Desktop\all\sanf (1142).dae
+
+Building 1142 C:\Users\zengx\Desktop\all\sanf (1143).dae
+
+Building 1143 C:\Users\zengx\Desktop\all\sanf (1144).dae
+
+Building 1144 C:\Users\zengx\Desktop\all\sanf (1145).dae
+
+Building 1145 C:\Users\zengx\Desktop\all\sanf (1146).dae
+
+Building 1146 C:\Users\zengx\Desktop\all\sanf (1147).dae
+
+Building 1147 C:\Users\zengx\Desktop\all\sanf (1148).dae
+
+Building 1148 C:\Users\zengx\Desktop\all\sanf (1149).dae
+
+Building 1149 C:\Users\zengx\Desktop\all\sanf (1150).dae
+
+Building 1150 C:\Users\zengx\Desktop\all\sanf (1151).dae
+
+Building 1151 C:\Users\zengx\Desktop\all\sanf (1152).dae
+
+Building 1152 C:\Users\zengx\Desktop\all\sanf (1153).dae
+
+Building 1153 C:\Users\zengx\Desktop\all\sanf (1154).dae
+
+Building 1154 C:\Users\zengx\Desktop\all\sanf (1155).dae
+
+Building 1155 C:\Users\zengx\Desktop\all\sanf (1156).dae
+
+Building 1156 C:\Users\zengx\Desktop\all\sanf (1157).dae
+
+Building 1157 C:\Users\zengx\Desktop\all\sanf (1158).dae
+Error 100: Failed to find next point!
+Building 1158 C:\Users\zengx\Desktop\all\sanf (1159).dae
+Error 100: Failed to find next point!
+Building 1159 C:\Users\zengx\Desktop\all\sanf (1160).dae
+
+Building 1160 C:\Users\zengx\Desktop\all\sanf (1161).dae
+
+Building 1161 C:\Users\zengx\Desktop\all\sanf (1162).dae
+
+Building 1162 C:\Users\zengx\Desktop\all\sanf (1163).dae
+
+Building 1163 C:\Users\zengx\Desktop\all\sanf (1164).dae
+Error 100: Failed to find next point!
+Building 1164 C:\Users\zengx\Desktop\all\sanf (1165).dae
+
+Building 1165 C:\Users\zengx\Desktop\all\sanf (1166).dae
+Error 101: Too few intersection points!
+Building 1166 C:\Users\zengx\Desktop\all\sanf (1167).dae
+
+Building 1167 C:\Users\zengx\Desktop\all\sanf (1168).dae
+
+Building 1168 C:\Users\zengx\Desktop\all\sanf (1169).dae
+
+Building 1169 C:\Users\zengx\Desktop\all\sanf (1170).dae
+
+Building 1170 C:\Users\zengx\Desktop\all\sanf (1171).dae
+
+Building 1171 C:\Users\zengx\Desktop\all\sanf (1172).dae
+
+Building 1172 C:\Users\zengx\Desktop\all\sanf (1173).dae
+
+Building 1173 C:\Users\zengx\Desktop\all\sanf (1174).dae
+
+Building 1174 C:\Users\zengx\Desktop\all\sanf (1175).dae
+
+Building 1175 C:\Users\zengx\Desktop\all\sanf (1176).dae
+
+Building 1176 C:\Users\zengx\Desktop\all\sanf (1177).dae
+
+Building 1177 C:\Users\zengx\Desktop\all\sanf (1178).dae
+
+Building 1178 C:\Users\zengx\Desktop\all\sanf (1179).dae
+Error 100: Failed to find next point!
+Building 1179 C:\Users\zengx\Desktop\all\sanf (1180).dae
+
+Building 1180 C:\Users\zengx\Desktop\all\sanf (1181).dae
+
+Building 1181 C:\Users\zengx\Desktop\all\sanf (1182).dae
+
+Building 1182 C:\Users\zengx\Desktop\all\sanf (1183).dae
+
+Building 1183 C:\Users\zengx\Desktop\all\sanf (1184).dae
+
+Building 1184 C:\Users\zengx\Desktop\all\sanf (1185).dae
+
+Building 1185 C:\Users\zengx\Desktop\all\sanf (1186).dae
+Error 100: Failed to find next point!
+Building 1186 C:\Users\zengx\Desktop\all\sanf (1187).dae
+Error 100: Failed to find next point!
+Building 1187 C:\Users\zengx\Desktop\all\sanf (1188).dae
+
+Building 1188 C:\Users\zengx\Desktop\all\sanf (1189).dae
+Error 101: Too few intersection points!
+Building 1189 C:\Users\zengx\Desktop\all\sanf (1190).dae
+
+Building 1190 C:\Users\zengx\Desktop\all\sanf (1191).dae
+
+Building 1191 C:\Users\zengx\Desktop\all\sanf (1192).dae
+
+Building 1192 C:\Users\zengx\Desktop\all\sanf (1193).dae
+
+Building 1193 C:\Users\zengx\Desktop\all\sanf (1194).dae
+
+Building 1194 C:\Users\zengx\Desktop\all\sanf (1195).dae
+
+Building 1195 C:\Users\zengx\Desktop\all\sanf (1196).dae
+
+Building 1196 C:\Users\zengx\Desktop\all\sanf (1197).dae
+
+Building 1197 C:\Users\zengx\Desktop\all\sanf (1198).dae
+
+Building 1198 C:\Users\zengx\Desktop\all\sanf (1199).dae
+
+Building 1199 C:\Users\zengx\Desktop\all\sanf (1200).dae
+
+Building 1200 C:\Users\zengx\Desktop\all\sanf (1201).dae
+
+Building 1201 C:\Users\zengx\Desktop\all\sanf (1202).dae
+
+Building 1202 C:\Users\zengx\Desktop\all\sanf (1203).dae
+
+Building 1203 C:\Users\zengx\Desktop\all\sanf (1204).dae
+
+Building 1204 C:\Users\zengx\Desktop\all\sanf (1205).dae
+
+Building 1205 C:\Users\zengx\Desktop\all\sanf (1206).dae
+
+Building 1206 C:\Users\zengx\Desktop\all\sanf (1207).dae
+Error 100: Failed to find next point!
+Building 1207 C:\Users\zengx\Desktop\all\sanf (1208).dae
+
+Building 1208 C:\Users\zengx\Desktop\all\sanf (1209).dae
+
+Building 1209 C:\Users\zengx\Desktop\all\sanf (1210).dae
+
+Building 1210 C:\Users\zengx\Desktop\all\sanf (1211).dae
+
+Building 1211 C:\Users\zengx\Desktop\all\sanf (1212).dae
+
+Building 1212 C:\Users\zengx\Desktop\all\sanf (1213).dae
+
+Building 1213 C:\Users\zengx\Desktop\all\sanf (1214).dae
+
+Building 1214 C:\Users\zengx\Desktop\all\sanf (1215).dae
+
+Building 1215 C:\Users\zengx\Desktop\all\sanf (1216).dae
+Error 100: Failed to find next point!
+Building 1216 C:\Users\zengx\Desktop\all\sanf (1217).dae
+
+Building 1217 C:\Users\zengx\Desktop\all\sanf (1218).dae
+
+Building 1218 C:\Users\zengx\Desktop\all\sanf (1219).dae
+
+Building 1219 C:\Users\zengx\Desktop\all\sanf (1220).dae
+Error 100: Failed to find next point!
+Building 1220 C:\Users\zengx\Desktop\all\sanf (1221).dae
+
+Building 1221 C:\Users\zengx\Desktop\all\sanf (1222).dae
+
+Building 1222 C:\Users\zengx\Desktop\all\sanf (1223).dae
+
+Building 1223 C:\Users\zengx\Desktop\all\sanf (1224).dae
+
+Building 1224 C:\Users\zengx\Desktop\all\sanf (1225).dae
+
+Building 1225 C:\Users\zengx\Desktop\all\sanf (1226).dae
+
+Building 1226 C:\Users\zengx\Desktop\all\sanf (1227).dae
+
+Building 1227 C:\Users\zengx\Desktop\all\sanf (1228).dae
+
+Building 1228 C:\Users\zengx\Desktop\all\sanf (1229).dae
+Error 100: Failed to find next point!
+Building 1229 C:\Users\zengx\Desktop\all\sanf (1230).dae
+Error 100: Failed to find next point!
+Building 1230 C:\Users\zengx\Desktop\all\sanf (1231).dae
+
+Building 1231 C:\Users\zengx\Desktop\all\sanf (1232).dae
+
+Building 1232 C:\Users\zengx\Desktop\all\sanf (1233).dae
+
+Building 1233 C:\Users\zengx\Desktop\all\sanf (1234).dae
+
+Building 1234 C:\Users\zengx\Desktop\all\sanf (1235).dae
+
+Building 1235 C:\Users\zengx\Desktop\all\sanf (1236).dae
+
+Building 1236 C:\Users\zengx\Desktop\all\sanf (1237).dae
+
+Building 1237 C:\Users\zengx\Desktop\all\sanf (1238).dae
+Error 100: Failed to find next point!
+Building 1238 C:\Users\zengx\Desktop\all\sanf (1239).dae
+
+Building 1239 C:\Users\zengx\Desktop\all\sanf (1240).dae
+Error 100: Failed to find next point!
+Building 1240 C:\Users\zengx\Desktop\all\sanf (1241).dae
+
+Building 1241 C:\Users\zengx\Desktop\all\sanf (1242).dae
+
+Building 1242 C:\Users\zengx\Desktop\all\sanf (1243).dae
+
+Building 1243 C:\Users\zengx\Desktop\all\sanf (1244).dae
+
+Building 1244 C:\Users\zengx\Desktop\all\sanf (1245).dae
+
+Building 1245 C:\Users\zengx\Desktop\all\sanf (1246).dae
+
+Building 1246 C:\Users\zengx\Desktop\all\sanf (1247).dae
+
+Building 1247 C:\Users\zengx\Desktop\all\sanf (1248).dae
+
+Building 1248 C:\Users\zengx\Desktop\all\sanf (1249).dae
+
+Building 1249 C:\Users\zengx\Desktop\all\sanf (1250).dae
+
+Building 1250 C:\Users\zengx\Desktop\all\sanf (1251).dae
+
+Building 1251 C:\Users\zengx\Desktop\all\sanf (1252).dae
+Error 100: Failed to find next point!
+Building 1252 C:\Users\zengx\Desktop\all\sanf (1253).dae
+
+Building 1253 C:\Users\zengx\Desktop\all\sanf (1254).dae
+
+Building 1254 C:\Users\zengx\Desktop\all\sanf (1255).dae
+
+Building 1255 C:\Users\zengx\Desktop\all\sanf (1256).dae
+
+Building 1256 C:\Users\zengx\Desktop\all\sanf (1257).dae
+
+Building 1257 C:\Users\zengx\Desktop\all\sanf (1258).dae
+
+Building 1258 C:\Users\zengx\Desktop\all\sanf (1259).dae
+
+Building 1259 C:\Users\zengx\Desktop\all\sanf (1260).dae
+
+Building 1260 C:\Users\zengx\Desktop\all\sanf (1261).dae
+
+Building 1261 C:\Users\zengx\Desktop\all\sanf (1262).dae
+
+Building 1262 C:\Users\zengx\Desktop\all\sanf (1263).dae
+
+Building 1263 C:\Users\zengx\Desktop\all\sanf (1264).dae
+
+Building 1264 C:\Users\zengx\Desktop\all\sanf (1265).dae
+
+Building 1265 C:\Users\zengx\Desktop\all\sanf (1266).dae
+
+Building 1266 C:\Users\zengx\Desktop\all\sanf (1267).dae
+
+Building 1267 C:\Users\zengx\Desktop\all\sanf (1268).dae
+
+Building 1268 C:\Users\zengx\Desktop\all\sanf (1269).dae
+Error 100: Failed to find next point!
+Building 1269 C:\Users\zengx\Desktop\all\sanf (1270).dae
+
+Building 1270 C:\Users\zengx\Desktop\all\sanf (1271).dae
+
+Building 1271 C:\Users\zengx\Desktop\all\sanf (1272).dae
+
+Building 1272 C:\Users\zengx\Desktop\all\sanf (1273).dae
+
+Building 1273 C:\Users\zengx\Desktop\all\sanf (1274).dae
+
+Building 1274 C:\Users\zengx\Desktop\all\sanf (1275).dae
+
+Building 1275 C:\Users\zengx\Desktop\all\sanf (1276).dae
+
+Building 1276 C:\Users\zengx\Desktop\all\sanf (1277).dae
+
+Building 1277 C:\Users\zengx\Desktop\all\sanf (1278).dae
+
+Building 1278 C:\Users\zengx\Desktop\all\sanf (1279).dae
+
+Building 1279 C:\Users\zengx\Desktop\all\sanf (1280).dae
+Error 100: Failed to find next point!
+Building 1280 C:\Users\zengx\Desktop\all\sanf (1281).dae
+Error 100: Failed to find next point!
+Building 1281 C:\Users\zengx\Desktop\all\sanf (1282).dae
+
+Building 1282 C:\Users\zengx\Desktop\all\sanf (1283).dae
+
+Building 1283 C:\Users\zengx\Desktop\all\sanf (1284).dae
+
+Building 1284 C:\Users\zengx\Desktop\all\sanf (1285).dae
+
+Building 1285 C:\Users\zengx\Desktop\all\sanf (1286).dae
+
+Building 1286 C:\Users\zengx\Desktop\all\sanf (1287).dae
+
+Building 1287 C:\Users\zengx\Desktop\all\sanf (1288).dae
+
+Building 1288 C:\Users\zengx\Desktop\all\sanf (1289).dae
+
+Building 1289 C:\Users\zengx\Desktop\all\sanf (1290).dae
+
+Building 1290 C:\Users\zengx\Desktop\all\sanf (1291).dae
+
+Building 1291 C:\Users\zengx\Desktop\all\sanf (1292).dae
+
+Building 1292 C:\Users\zengx\Desktop\all\sanf (1293).dae
+
+Building 1293 C:\Users\zengx\Desktop\all\sanf (1294).dae
+
+Building 1294 C:\Users\zengx\Desktop\all\sanf (1295).dae
+
+Building 1295 C:\Users\zengx\Desktop\all\sanf (1296).dae
+
+Building 1296 C:\Users\zengx\Desktop\all\sanf (1297).dae
+
+Building 1297 C:\Users\zengx\Desktop\all\sanf (1298).dae
+
+Building 1298 C:\Users\zengx\Desktop\all\sanf (1299).dae
+
+Building 1299 C:\Users\zengx\Desktop\all\sanf (1300).dae
+
+Building 1300 C:\Users\zengx\Desktop\all\sanf (1301).dae
+
+Building 1301 C:\Users\zengx\Desktop\all\sanf (1302).dae
+
+Building 1302 C:\Users\zengx\Desktop\all\sanf (1303).dae
+
+Building 1303 C:\Users\zengx\Desktop\all\sanf (1304).dae
+
+Building 1304 C:\Users\zengx\Desktop\all\sanf (1305).dae
+
+Building 1305 C:\Users\zengx\Desktop\all\sanf (1306).dae
+
+Building 1306 C:\Users\zengx\Desktop\all\sanf (1307).dae
+
+Building 1307 C:\Users\zengx\Desktop\all\sanf (1308).dae
+
+Building 1308 C:\Users\zengx\Desktop\all\sanf (1309).dae
+
+Building 1309 C:\Users\zengx\Desktop\all\sanf (1310).dae
+
+Building 1310 C:\Users\zengx\Desktop\all\sanf (1311).dae
+
+Building 1311 C:\Users\zengx\Desktop\all\sanf (1312).dae
+
+Building 1312 C:\Users\zengx\Desktop\all\sanf (1313).dae
+
+Building 1313 C:\Users\zengx\Desktop\all\sanf (1314).dae
+
+Building 1314 C:\Users\zengx\Desktop\all\sanf (1315).dae
+
+Building 1315 C:\Users\zengx\Desktop\all\sanf (1316).dae
+
+Building 1316 C:\Users\zengx\Desktop\all\sanf (1317).dae
+
+Building 1317 C:\Users\zengx\Desktop\all\sanf (1318).dae
+
+Building 1318 C:\Users\zengx\Desktop\all\sanf (1319).dae
+
+Building 1319 C:\Users\zengx\Desktop\all\sanf (1320).dae
+
+Building 1320 C:\Users\zengx\Desktop\all\sanf (1321).dae
+
+Building 1321 C:\Users\zengx\Desktop\all\sanf (1322).dae
+
+Building 1322 C:\Users\zengx\Desktop\all\sanf (1323).dae
+
+Building 1323 C:\Users\zengx\Desktop\all\sanf (1324).dae
+
+Building 1324 C:\Users\zengx\Desktop\all\sanf (1325).dae
+
+Building 1325 C:\Users\zengx\Desktop\all\sanf (1326).dae
+
+Building 1326 C:\Users\zengx\Desktop\all\sanf (1327).dae
+
+Building 1327 C:\Users\zengx\Desktop\all\sanf (1328).dae
+
+Building 1328 C:\Users\zengx\Desktop\all\sanf (1329).dae
+
+Building 1329 C:\Users\zengx\Desktop\all\sanf (1330).dae
+
+Building 1330 C:\Users\zengx\Desktop\all\sanf (1331).dae
+
+Building 1331 C:\Users\zengx\Desktop\all\sanf (1332).dae
+
+Building 1332 C:\Users\zengx\Desktop\all\sanf (1333).dae
+
+Building 1333 C:\Users\zengx\Desktop\all\sanf (1334).dae
+
+Building 1334 C:\Users\zengx\Desktop\all\sanf (1335).dae
+Error 100: Failed to find next point!
+Building 1335 C:\Users\zengx\Desktop\all\sanf (1336).dae
+
+Building 1336 C:\Users\zengx\Desktop\all\sanf (1337).dae
+
+Building 1337 C:\Users\zengx\Desktop\all\sanf (1338).dae
+
+Building 1338 C:\Users\zengx\Desktop\all\sanf (1339).dae
+
+Building 1339 C:\Users\zengx\Desktop\all\sanf (1340).dae
+
+Building 1340 C:\Users\zengx\Desktop\all\sanf (1341).dae
+
+Building 1341 C:\Users\zengx\Desktop\all\sanf (1342).dae
+
+Building 1342 C:\Users\zengx\Desktop\all\sanf (1343).dae
+
+Building 1343 C:\Users\zengx\Desktop\all\sanf (1344).dae
+
+Building 1344 C:\Users\zengx\Desktop\all\sanf (1345).dae
+
+Building 1345 C:\Users\zengx\Desktop\all\sanf (1346).dae
+
+Building 1346 C:\Users\zengx\Desktop\all\sanf (1347).dae
+
+Building 1347 C:\Users\zengx\Desktop\all\sanf (1348).dae
+
+Building 1348 C:\Users\zengx\Desktop\all\sanf (1349).dae
+
+Building 1349 C:\Users\zengx\Desktop\all\sanf (1350).dae
+
+Building 1350 C:\Users\zengx\Desktop\all\sanf (1351).dae
+
+Building 1351 C:\Users\zengx\Desktop\all\sanf (1352).dae
+
+Building 1352 C:\Users\zengx\Desktop\all\sanf (1353).dae
+
+Building 1353 C:\Users\zengx\Desktop\all\sanf (1354).dae
+
+Building 1354 C:\Users\zengx\Desktop\all\sanf (1355).dae
+
+Building 1355 C:\Users\zengx\Desktop\all\sanf (1356).dae
+
+Building 1356 C:\Users\zengx\Desktop\all\sanf (1357).dae
+
+Building 1357 C:\Users\zengx\Desktop\all\sanf (1358).dae
+
+Building 1358 C:\Users\zengx\Desktop\all\sanf (1359).dae
+Error 100: Failed to find next point!
+Building 1359 C:\Users\zengx\Desktop\all\sanf (1360).dae
+
+Building 1360 C:\Users\zengx\Desktop\all\sanf (1361).dae
+
+Building 1361 C:\Users\zengx\Desktop\all\sanf (1362).dae
+
+Building 1362 C:\Users\zengx\Desktop\all\sanf (1363).dae
+
+Building 1363 C:\Users\zengx\Desktop\all\sanf (1364).dae
+
+Building 1364 C:\Users\zengx\Desktop\all\sanf (1365).dae
+
+Building 1365 C:\Users\zengx\Desktop\all\sanf (1366).dae
+
+Building 1366 C:\Users\zengx\Desktop\all\sanf (1367).dae
+
+Building 1367 C:\Users\zengx\Desktop\all\sanf (1368).dae
+
+Building 1368 C:\Users\zengx\Desktop\all\sanf (1369).dae
+
+Building 1369 C:\Users\zengx\Desktop\all\sanf (1370).dae
+
+Building 1370 C:\Users\zengx\Desktop\all\sanf (1371).dae
+
+Building 1371 C:\Users\zengx\Desktop\all\sanf (1372).dae
+
+Building 1372 C:\Users\zengx\Desktop\all\sanf (1373).dae
+
+Building 1373 C:\Users\zengx\Desktop\all\sanf (1374).dae
+
+Building 1374 C:\Users\zengx\Desktop\all\sanf (1375).dae
+
+Building 1375 C:\Users\zengx\Desktop\all\sanf (1376).dae
+
+Building 1376 C:\Users\zengx\Desktop\all\sanf (1377).dae
+
+Building 1377 C:\Users\zengx\Desktop\all\sanf (1378).dae
+
+Building 1378 C:\Users\zengx\Desktop\all\sanf (1379).dae
+
+Building 1379 C:\Users\zengx\Desktop\all\sanf (1380).dae
+
+Building 1380 C:\Users\zengx\Desktop\all\sanf (1381).dae
+
+Building 1381 C:\Users\zengx\Desktop\all\sanf (1382).dae
+
+Building 1382 C:\Users\zengx\Desktop\all\sanf (1383).dae
+
+Building 1383 C:\Users\zengx\Desktop\all\sanf (1384).dae
+
+Building 1384 C:\Users\zengx\Desktop\all\sanf (1385).dae
+
+Building 1385 C:\Users\zengx\Desktop\all\sanf (1386).dae
+
+Building 1386 C:\Users\zengx\Desktop\all\sanf (1387).dae
+
+Building 1387 C:\Users\zengx\Desktop\all\sanf (1388).dae
+
+Building 1388 C:\Users\zengx\Desktop\all\sanf (1389).dae
+
+Building 1389 C:\Users\zengx\Desktop\all\sanf (1390).dae
+
+Building 1390 C:\Users\zengx\Desktop\all\sanf (1391).dae
+
+Building 1391 C:\Users\zengx\Desktop\all\sanf (1392).dae
+
+Building 1392 C:\Users\zengx\Desktop\all\sanf (1393).dae
+
+Building 1393 C:\Users\zengx\Desktop\all\sanf (1394).dae
+
+Building 1394 C:\Users\zengx\Desktop\all\sanf (1395).dae
+
+Building 1395 C:\Users\zengx\Desktop\all\sanf (1396).dae
+
+Building 1396 C:\Users\zengx\Desktop\all\sanf (1397).dae
+
+Building 1397 C:\Users\zengx\Desktop\all\sanf (1398).dae
+
+Building 1398 C:\Users\zengx\Desktop\all\sanf (1399).dae
+
+Building 1399 C:\Users\zengx\Desktop\all\sanf (1400).dae
+
+Building 1400 C:\Users\zengx\Desktop\all\sanf (1401).dae
+
+Building 1401 C:\Users\zengx\Desktop\all\sanf (1402).dae
+
+Building 1402 C:\Users\zengx\Desktop\all\sanf (1403).dae
+
+Building 1403 C:\Users\zengx\Desktop\all\sanf (1404).dae
+
+Building 1404 C:\Users\zengx\Desktop\all\sanf (1405).dae
+
+Building 1405 C:\Users\zengx\Desktop\all\sanf (1406).dae
+
+Building 1406 C:\Users\zengx\Desktop\all\sanf (1407).dae
+Error 100: Failed to find next point!
+Building 1407 C:\Users\zengx\Desktop\all\sanf (1408).dae
+Error 102: Polygon not closed!
+Building 1408 C:\Users\zengx\Desktop\all\sanf (1409).dae
+
+Building 1409 C:\Users\zengx\Desktop\all\sanf (1410).dae
+
+Building 1410 C:\Users\zengx\Desktop\all\sanf (1411).dae
+Error 100: Failed to find next point!
+Building 1411 C:\Users\zengx\Desktop\all\sanf (1412).dae
+
+Building 1412 C:\Users\zengx\Desktop\all\sanf (1413).dae
+Error 100: Failed to find next point!
+Building 1413 C:\Users\zengx\Desktop\all\sanf (1414).dae
+
+Building 1414 C:\Users\zengx\Desktop\all\sanf (1415).dae
+
+Building 1415 C:\Users\zengx\Desktop\all\sanf (1416).dae
+
+Building 1416 C:\Users\zengx\Desktop\all\sanf (1417).dae
+Error 100: Failed to find next point!
+Building 1417 C:\Users\zengx\Desktop\all\sanf (1418).dae
+Error 100: Failed to find next point!
+Building 1418 C:\Users\zengx\Desktop\all\sanf (1419).dae
+
+Building 1419 C:\Users\zengx\Desktop\all\sanf (1420).dae
+Error 101: Too few intersection points!
+Building 1420 C:\Users\zengx\Desktop\all\sanf (1421).dae
+
+Building 1421 C:\Users\zengx\Desktop\all\sanf (1422).dae
+Error 100: Failed to find next point!
+Building 1422 C:\Users\zengx\Desktop\all\sanf (1423).dae
+
+Building 1423 C:\Users\zengx\Desktop\all\sanf (1424).dae
+
+Building 1424 C:\Users\zengx\Desktop\all\sanf (1425).dae
+
+Building 1425 C:\Users\zengx\Desktop\all\sanf (1426).dae
+
+Building 1426 C:\Users\zengx\Desktop\all\sanf (1427).dae
+
+Building 1427 C:\Users\zengx\Desktop\all\sanf (1428).dae
+
+Building 1428 C:\Users\zengx\Desktop\all\sanf (1429).dae
+
+Building 1429 C:\Users\zengx\Desktop\all\sanf (1430).dae
+
+Building 1430 C:\Users\zengx\Desktop\all\sanf (1431).dae
+
+Building 1431 C:\Users\zengx\Desktop\all\sanf (1432).dae
+Error 102: Polygon not closed!
+Building 1432 C:\Users\zengx\Desktop\all\sanf (1433).dae
+
+Building 1433 C:\Users\zengx\Desktop\all\sanf (1434).dae
+
+Building 1434 C:\Users\zengx\Desktop\all\sanf (1435).dae
+
+Building 1435 C:\Users\zengx\Desktop\all\sanf (1436).dae
+
+Building 1436 C:\Users\zengx\Desktop\all\sanf (1437).dae
+
+Building 1437 C:\Users\zengx\Desktop\all\sanf (1438).dae
+
+Building 1438 C:\Users\zengx\Desktop\all\sanf (1439).dae
+
+Building 1439 C:\Users\zengx\Desktop\all\sanf (1440).dae
+
+Building 1440 C:\Users\zengx\Desktop\all\sanf (1441).dae
+Error 100: Failed to find next point!
+Building 1441 C:\Users\zengx\Desktop\all\sanf (1442).dae
+
+Building 1442 C:\Users\zengx\Desktop\all\sanf (1443).dae
+
+Building 1443 C:\Users\zengx\Desktop\all\sanf (1444).dae
+
+Building 1444 C:\Users\zengx\Desktop\all\sanf (1445).dae
+Error 100: Failed to find next point!
+Building 1445 C:\Users\zengx\Desktop\all\sanf (1446).dae
+Error 100: Failed to find next point!
+Building 1446 C:\Users\zengx\Desktop\all\sanf (1447).dae
+Error 100: Failed to find next point!
+Building 1447 C:\Users\zengx\Desktop\all\sanf (1448).dae
+
+Building 1448 C:\Users\zengx\Desktop\all\sanf (1449).dae
+Error 100: Failed to find next point!
+Building 1449 C:\Users\zengx\Desktop\all\sanf (1450).dae
+
+Building 1450 C:\Users\zengx\Desktop\all\sanf (1451).dae
+
+Building 1451 C:\Users\zengx\Desktop\all\sanf (1452).dae
+
+Building 1452 C:\Users\zengx\Desktop\all\sanf (1453).dae
+
+Building 1453 C:\Users\zengx\Desktop\all\sanf (1454).dae
+
+Building 1454 C:\Users\zengx\Desktop\all\sanf (1455).dae
+
+Building 1455 C:\Users\zengx\Desktop\all\sanf (1456).dae
+
+Building 1456 C:\Users\zengx\Desktop\all\sanf (1457).dae
+
+Building 1457 C:\Users\zengx\Desktop\all\sanf (1458).dae
+
+Building 1458 C:\Users\zengx\Desktop\all\sanf (1459).dae
+Error 100: Failed to find next point!
+Building 1459 C:\Users\zengx\Desktop\all\sanf (1460).dae
+
+Building 1460 C:\Users\zengx\Desktop\all\sanf (1461).dae
+
+Building 1461 C:\Users\zengx\Desktop\all\sanf (1462).dae
+
+Building 1462 C:\Users\zengx\Desktop\all\sanf (1463).dae
+
+Building 1463 C:\Users\zengx\Desktop\all\sanf (1464).dae
+
+Building 1464 C:\Users\zengx\Desktop\all\sanf (1465).dae
+
+Building 1465 C:\Users\zengx\Desktop\all\sanf (1466).dae
+
+Building 1466 C:\Users\zengx\Desktop\all\sanf (1467).dae
+
+Building 1467 C:\Users\zengx\Desktop\all\sanf (1468).dae
+Error 100: Failed to find next point!
+Building 1468 C:\Users\zengx\Desktop\all\sanf (1469).dae
+
+Building 1469 C:\Users\zengx\Desktop\all\sanf (1470).dae
+
+Building 1470 C:\Users\zengx\Desktop\all\sanf (1471).dae
+
+Building 1471 C:\Users\zengx\Desktop\all\sanf (1472).dae
+
+Building 1472 C:\Users\zengx\Desktop\all\sanf (1473).dae
+
+Building 1473 C:\Users\zengx\Desktop\all\sanf (1474).dae
+
+Building 1474 C:\Users\zengx\Desktop\all\sanf (1475).dae
+
+Building 1475 C:\Users\zengx\Desktop\all\sanf (1476).dae
+
+Building 1476 C:\Users\zengx\Desktop\all\sanf (1477).dae
+
+Building 1477 C:\Users\zengx\Desktop\all\sanf (1478).dae
+
+Building 1478 C:\Users\zengx\Desktop\all\sanf (1479).dae
+
+Building 1479 C:\Users\zengx\Desktop\all\sanf (1480).dae
+
+Building 1480 C:\Users\zengx\Desktop\all\sanf (1481).dae
+
+Building 1481 C:\Users\zengx\Desktop\all\sanf (1482).dae
+
+Building 1482 C:\Users\zengx\Desktop\all\sanf (1483).dae
+
+Building 1483 C:\Users\zengx\Desktop\all\sanf (1484).dae
+
+Building 1484 C:\Users\zengx\Desktop\all\sanf (1485).dae
+
+Building 1485 C:\Users\zengx\Desktop\all\sanf (1486).dae
+
+Building 1486 C:\Users\zengx\Desktop\all\sanf (1487).dae
+Error 100: Failed to find next point!
+Building 1487 C:\Users\zengx\Desktop\all\sanf (1488).dae
+
+Building 1488 C:\Users\zengx\Desktop\all\sanf (1489).dae
+
+Building 1489 C:\Users\zengx\Desktop\all\sanf (1490).dae
+
+Building 1490 C:\Users\zengx\Desktop\all\sanf (1491).dae
+
+Building 1491 C:\Users\zengx\Desktop\all\sanf (1492).dae
+
+Building 1492 C:\Users\zengx\Desktop\all\sanf (1493).dae
+
+Building 1493 C:\Users\zengx\Desktop\all\sanf (1494).dae
+
+Building 1494 C:\Users\zengx\Desktop\all\sanf (1495).dae
+
+Building 1495 C:\Users\zengx\Desktop\all\sanf (1496).dae
+
+Building 1496 C:\Users\zengx\Desktop\all\sanf (1497).dae
+
+Building 1497 C:\Users\zengx\Desktop\all\sanf (1498).dae
+
+Building 1498 C:\Users\zengx\Desktop\all\sanf (1499).dae
+
+Building 1499 C:\Users\zengx\Desktop\all\sanf (1500).dae
+
+Building 1500 C:\Users\zengx\Desktop\all\sanf (1501).dae
+
+Building 1501 C:\Users\zengx\Desktop\all\sanf (1502).dae
+
+Building 1502 C:\Users\zengx\Desktop\all\sanf (1503).dae
+
+Building 1503 C:\Users\zengx\Desktop\all\sanf (1504).dae
+
+Building 1504 C:\Users\zengx\Desktop\all\sanf (1505).dae
+
+Building 1505 C:\Users\zengx\Desktop\all\sanf (1506).dae
+
+Building 1506 C:\Users\zengx\Desktop\all\sanf (1507).dae
+
+Building 1507 C:\Users\zengx\Desktop\all\sanf (1508).dae
+
+Building 1508 C:\Users\zengx\Desktop\all\sanf (1509).dae
+
+Building 1509 C:\Users\zengx\Desktop\all\sanf (1510).dae
+
+Building 1510 C:\Users\zengx\Desktop\all\sanf (1511).dae
+
+Building 1511 C:\Users\zengx\Desktop\all\sanf (1512).dae
+
+Building 1512 C:\Users\zengx\Desktop\all\sanf (1513).dae
+
+Building 1513 C:\Users\zengx\Desktop\all\sanf (1514).dae
+
+Building 1514 C:\Users\zengx\Desktop\all\sanf (1515).dae
+
+Building 1515 C:\Users\zengx\Desktop\all\sanf (1516).dae
+
+Building 1516 C:\Users\zengx\Desktop\all\sanf (1517).dae
+
+Building 1517 C:\Users\zengx\Desktop\all\sanf (1518).dae
+Error 102: Polygon not closed!
+Building 1518 C:\Users\zengx\Desktop\all\sanf (1519).dae
+
+Building 1519 C:\Users\zengx\Desktop\all\sanf (1520).dae
+
+Building 1520 C:\Users\zengx\Desktop\all\sanf (1521).dae
+
+Building 1521 C:\Users\zengx\Desktop\all\sanf (1522).dae
+
+Building 1522 C:\Users\zengx\Desktop\all\sanf (1523).dae
+
+Building 1523 C:\Users\zengx\Desktop\all\sanf (1524).dae
+
+Building 1524 C:\Users\zengx\Desktop\all\sanf (1525).dae
+
+Building 1525 C:\Users\zengx\Desktop\all\sanf (1526).dae
+
+Building 1526 C:\Users\zengx\Desktop\all\sanf (1527).dae
+
+Building 1527 C:\Users\zengx\Desktop\all\sanf (1528).dae
+
+Building 1528 C:\Users\zengx\Desktop\all\sanf (1529).dae
+
+Building 1529 C:\Users\zengx\Desktop\all\sanf (1530).dae
+
+Building 1530 C:\Users\zengx\Desktop\all\sanf (1531).dae
+
+Building 1531 C:\Users\zengx\Desktop\all\sanf (1532).dae
+
+Building 1532 C:\Users\zengx\Desktop\all\sanf (1533).dae
+
+Building 1533 C:\Users\zengx\Desktop\all\sanf (1534).dae
+
+Building 1534 C:\Users\zengx\Desktop\all\sanf (1535).dae
+
+Building 1535 C:\Users\zengx\Desktop\all\sanf (1536).dae
+
+Building 1536 C:\Users\zengx\Desktop\all\sanf (1537).dae
+
+Building 1537 C:\Users\zengx\Desktop\all\sanf (1538).dae
+
+Building 1538 C:\Users\zengx\Desktop\all\sanf (1539).dae
+
+Building 1539 C:\Users\zengx\Desktop\all\sanf (1540).dae
+
+Building 1540 C:\Users\zengx\Desktop\all\sanf (1541).dae
+
+Building 1541 C:\Users\zengx\Desktop\all\sanf (1542).dae
+
+Building 1542 C:\Users\zengx\Desktop\all\sanf (1543).dae
+
+Building 1543 C:\Users\zengx\Desktop\all\sanf (1544).dae
+
+Building 1544 C:\Users\zengx\Desktop\all\sanf (1545).dae
+
+Building 1545 C:\Users\zengx\Desktop\all\sanf (1546).dae
+
+Building 1546 C:\Users\zengx\Desktop\all\sanf (1547).dae
+
+Building 1547 C:\Users\zengx\Desktop\all\sanf (1548).dae
+
+Building 1548 C:\Users\zengx\Desktop\all\sanf (1549).dae
+
+Building 1549 C:\Users\zengx\Desktop\all\sanf (1550).dae
+
+Building 1550 C:\Users\zengx\Desktop\all\sanf (1551).dae
+
+Building 1551 C:\Users\zengx\Desktop\all\sanf (1552).dae
+
+Building 1552 C:\Users\zengx\Desktop\all\sanf (1553).dae
+
+Building 1553 C:\Users\zengx\Desktop\all\sanf (1554).dae
+
+Building 1554 C:\Users\zengx\Desktop\all\sanf (1555).dae
+
+Building 1555 C:\Users\zengx\Desktop\all\sanf (1556).dae
+
+Building 1556 C:\Users\zengx\Desktop\all\sanf (1557).dae
+
+Building 1557 C:\Users\zengx\Desktop\all\sanf (1558).dae
+Error 101: Too few intersection points!
+Building 1558 C:\Users\zengx\Desktop\all\sanf (1559).dae
+
+Building 1559 C:\Users\zengx\Desktop\all\sanf (1560).dae
+
+Building 1560 C:\Users\zengx\Desktop\all\sanf (1561).dae
+
+Building 1561 C:\Users\zengx\Desktop\all\sanf (1562).dae
+
+Building 1562 C:\Users\zengx\Desktop\all\sanf (1563).dae
+
+Building 1563 C:\Users\zengx\Desktop\all\sanf (1564).dae
+
+Building 1564 C:\Users\zengx\Desktop\all\sanf (1565).dae
+
+Building 1565 C:\Users\zengx\Desktop\all\sanf (1566).dae
+
+Building 1566 C:\Users\zengx\Desktop\all\sanf (1567).dae
+
+Building 1567 C:\Users\zengx\Desktop\all\sanf (1568).dae
+
+Building 1568 C:\Users\zengx\Desktop\all\sanf (1569).dae
+
+Building 1569 C:\Users\zengx\Desktop\all\sanf (1570).dae
+
+Building 1570 C:\Users\zengx\Desktop\all\sanf (1571).dae
+
+Building 1571 C:\Users\zengx\Desktop\all\sanf (1572).dae
+
+Building 1572 C:\Users\zengx\Desktop\all\sanf (1573).dae
+
+Building 1573 C:\Users\zengx\Desktop\all\sanf (1574).dae
+Error 100: Failed to find next point!
+Building 1574 C:\Users\zengx\Desktop\all\sanf (1575).dae
+
+Building 1575 C:\Users\zengx\Desktop\all\sanf (1576).dae
+Error 100: Failed to find next point!
+Building 1576 C:\Users\zengx\Desktop\all\sanf (1577).dae
+
+Building 1577 C:\Users\zengx\Desktop\all\sanf (1578).dae
+
+Building 1578 C:\Users\zengx\Desktop\all\sanf (1579).dae
+
+Building 1579 C:\Users\zengx\Desktop\all\sanf (1580).dae
+
+Building 1580 C:\Users\zengx\Desktop\all\sanf (1581).dae
+
+Building 1581 C:\Users\zengx\Desktop\all\sanf (1582).dae
+
+Building 1582 C:\Users\zengx\Desktop\all\sanf (1583).dae
+
+Building 1583 C:\Users\zengx\Desktop\all\sanf (1584).dae
+
+Building 1584 C:\Users\zengx\Desktop\all\sanf (1585).dae
+
+Building 1585 C:\Users\zengx\Desktop\all\sanf (1586).dae
+
+Building 1586 C:\Users\zengx\Desktop\all\sanf (1587).dae
+
+Building 1587 C:\Users\zengx\Desktop\all\sanf (1588).dae
+
+Building 1588 C:\Users\zengx\Desktop\all\sanf (1589).dae
+
+Building 1589 C:\Users\zengx\Desktop\all\sanf (1590).dae
+
+Building 1590 C:\Users\zengx\Desktop\all\sanf (1591).dae
+
+Building 1591 C:\Users\zengx\Desktop\all\sanf (1592).dae
+
+Building 1592 C:\Users\zengx\Desktop\all\sanf (1593).dae
+
+Building 1593 C:\Users\zengx\Desktop\all\sanf (1594).dae
+
+Building 1594 C:\Users\zengx\Desktop\all\sanf (1595).dae
+
+Building 1595 C:\Users\zengx\Desktop\all\sanf (1596).dae
+
+Building 1596 C:\Users\zengx\Desktop\all\sanf (1597).dae
+
+Building 1597 C:\Users\zengx\Desktop\all\sanf (1598).dae
+
+Building 1598 C:\Users\zengx\Desktop\all\sanf (1599).dae
+
+Building 1599 C:\Users\zengx\Desktop\all\sanf (1600).dae
+
+Building 1600 C:\Users\zengx\Desktop\all\sanf (1601).dae
+
+Building 1601 C:\Users\zengx\Desktop\all\sanf (1602).dae
+
+Building 1602 C:\Users\zengx\Desktop\all\sanf (1603).dae
+
+Building 1603 C:\Users\zengx\Desktop\all\sanf (1604).dae
+
+Building 1604 C:\Users\zengx\Desktop\all\sanf (1605).dae
+
+Building 1605 C:\Users\zengx\Desktop\all\sanf (1606).dae
+
+Building 1606 C:\Users\zengx\Desktop\all\sanf (1607).dae
+
+Building 1607 C:\Users\zengx\Desktop\all\sanf (1608).dae
+
+Building 1608 C:\Users\zengx\Desktop\all\sanf (1609).dae
+
+Building 1609 C:\Users\zengx\Desktop\all\sanf (1610).dae
+
+Building 1610 C:\Users\zengx\Desktop\all\sanf (1611).dae
+
+Building 1611 C:\Users\zengx\Desktop\all\sanf (1612).dae
+
+Building 1612 C:\Users\zengx\Desktop\all\sanf (1613).dae
+
+Building 1613 C:\Users\zengx\Desktop\all\sanf (1614).dae
+
+Building 1614 C:\Users\zengx\Desktop\all\sanf (1615).dae
+
+Building 1615 C:\Users\zengx\Desktop\all\sanf (1616).dae
+
+Building 1616 C:\Users\zengx\Desktop\all\sanf (1617).dae
+
+Building 1617 C:\Users\zengx\Desktop\all\sanf (1618).dae
+
+Building 1618 C:\Users\zengx\Desktop\all\sanf (1619).dae
+
+Building 1619 C:\Users\zengx\Desktop\all\sanf (1620).dae
+
+Building 1620 C:\Users\zengx\Desktop\all\sanf (1621).dae
+
+Building 1621 C:\Users\zengx\Desktop\all\sanf (1622).dae
+
+Building 1622 C:\Users\zengx\Desktop\all\sanf (1623).dae
+
+Building 1623 C:\Users\zengx\Desktop\all\sanf (1624).dae
+
+Building 1624 C:\Users\zengx\Desktop\all\sanf (1625).dae
+
+Building 1625 C:\Users\zengx\Desktop\all\sanf (1626).dae
+
+Building 1626 C:\Users\zengx\Desktop\all\sanf (1627).dae
+
+Building 1627 C:\Users\zengx\Desktop\all\sanf (1628).dae
+
+Building 1628 C:\Users\zengx\Desktop\all\sanf (1629).dae
+
+Building 1629 C:\Users\zengx\Desktop\all\sanf (1630).dae
+
+Building 1630 C:\Users\zengx\Desktop\all\sanf (1631).dae
+
+Building 1631 C:\Users\zengx\Desktop\all\sanf (1632).dae
+
+Building 1632 C:\Users\zengx\Desktop\all\sanf (1633).dae
+
+Building 1633 C:\Users\zengx\Desktop\all\sanf (1634).dae
+
+Building 1634 C:\Users\zengx\Desktop\all\sanf (1635).dae
+
+Building 1635 C:\Users\zengx\Desktop\all\sanf (1636).dae
+
+Building 1636 C:\Users\zengx\Desktop\all\sanf (1637).dae
+
+Building 1637 C:\Users\zengx\Desktop\all\sanf (1638).dae
+
+Building 1638 C:\Users\zengx\Desktop\all\sanf (1639).dae
+
+Building 1639 C:\Users\zengx\Desktop\all\sanf (1640).dae
+
+Building 1640 C:\Users\zengx\Desktop\all\sanf (1641).dae
+
+Building 1641 C:\Users\zengx\Desktop\all\sanf (1642).dae
+
+Building 1642 C:\Users\zengx\Desktop\all\sanf (1643).dae
+
+Building 1643 C:\Users\zengx\Desktop\all\sanf (1644).dae
+
+Building 1644 C:\Users\zengx\Desktop\all\sanf (1645).dae
+
+Building 1645 C:\Users\zengx\Desktop\all\sanf (1646).dae
+
+Building 1646 C:\Users\zengx\Desktop\all\sanf (1647).dae
+
+Building 1647 C:\Users\zengx\Desktop\all\sanf (1648).dae
+
+Building 1648 C:\Users\zengx\Desktop\all\sanf (1649).dae
+
+Building 1649 C:\Users\zengx\Desktop\all\sanf (1650).dae
+
+Building 1650 C:\Users\zengx\Desktop\all\sanf (1651).dae
+
+Building 1651 C:\Users\zengx\Desktop\all\sanf (1652).dae
+
+Building 1652 C:\Users\zengx\Desktop\all\sanf (1653).dae
+
+Building 1653 C:\Users\zengx\Desktop\all\sanf (1654).dae
+
+Building 1654 C:\Users\zengx\Desktop\all\sanf (1655).dae
+
+Building 1655 C:\Users\zengx\Desktop\all\sanf (1656).dae
+
+Building 1656 C:\Users\zengx\Desktop\all\sanf (1657).dae
+
+Building 1657 C:\Users\zengx\Desktop\all\sanf (1658).dae
+
+Building 1658 C:\Users\zengx\Desktop\all\sanf (1659).dae
+
+Building 1659 C:\Users\zengx\Desktop\all\sanf (1660).dae
+
+Building 1660 C:\Users\zengx\Desktop\all\sanf (1661).dae
+
+Building 1661 C:\Users\zengx\Desktop\all\sanf (1662).dae
+
+Building 1662 C:\Users\zengx\Desktop\all\sanf (1663).dae
+
+Building 1663 C:\Users\zengx\Desktop\all\sanf (1664).dae
+
+Building 1664 C:\Users\zengx\Desktop\all\sanf (1665).dae
+
+Building 1665 C:\Users\zengx\Desktop\all\sanf (1666).dae
+Error 100: Failed to find next point!
+Building 1666 C:\Users\zengx\Desktop\all\sanf (1667).dae
+
+Building 1667 C:\Users\zengx\Desktop\all\sanf (1668).dae
+
+Building 1668 C:\Users\zengx\Desktop\all\sanf (1669).dae
+
+Building 1669 C:\Users\zengx\Desktop\all\sanf (1670).dae
+
+Building 1670 C:\Users\zengx\Desktop\all\sanf (1671).dae
+Error 100: Failed to find next point!
+Building 1671 C:\Users\zengx\Desktop\all\sanf (1672).dae
+
+Building 1672 C:\Users\zengx\Desktop\all\sanf (1673).dae
+
+Building 1673 C:\Users\zengx\Desktop\all\sanf (1674).dae
+
+Building 1674 C:\Users\zengx\Desktop\all\sanf (1675).dae
+
+Building 1675 C:\Users\zengx\Desktop\all\sanf (1676).dae
+
+Building 1676 C:\Users\zengx\Desktop\all\sanf (1677).dae
+Error 101: Too few intersection points!
+Building 1677 C:\Users\zengx\Desktop\all\sanf (1678).dae
+
+Building 1678 C:\Users\zengx\Desktop\all\sanf (1679).dae
+
+Building 1679 C:\Users\zengx\Desktop\all\sanf (1680).dae
+
+Building 1680 C:\Users\zengx\Desktop\all\sanf (1681).dae
+
+Building 1681 C:\Users\zengx\Desktop\all\sanf (1682).dae
+
+Building 1682 C:\Users\zengx\Desktop\all\sanf (1683).dae
+
+Building 1683 C:\Users\zengx\Desktop\all\sanf (1684).dae
+
+Building 1684 C:\Users\zengx\Desktop\all\sanf (1685).dae
+
+Building 1685 C:\Users\zengx\Desktop\all\sanf (1686).dae
+
+Building 1686 C:\Users\zengx\Desktop\all\sanf (1687).dae
+
+Building 1687 C:\Users\zengx\Desktop\all\sanf (1688).dae
+
+Building 1688 C:\Users\zengx\Desktop\all\sanf (1689).dae
+
+Building 1689 C:\Users\zengx\Desktop\all\sanf (1690).dae
+
+Building 1690 C:\Users\zengx\Desktop\all\sanf (1691).dae
+
+Building 1691 C:\Users\zengx\Desktop\all\sanf (1692).dae
+
+Building 1692 C:\Users\zengx\Desktop\all\sanf (1693).dae
+
+Building 1693 C:\Users\zengx\Desktop\all\sanf (1694).dae
+
+Building 1694 C:\Users\zengx\Desktop\all\sanf (1695).dae
+
+Building 1695 C:\Users\zengx\Desktop\all\sanf (1696).dae
+
+Building 1696 C:\Users\zengx\Desktop\all\sanf (1697).dae
+
+Building 1697 C:\Users\zengx\Desktop\all\sanf (1698).dae
+
+Building 1698 C:\Users\zengx\Desktop\all\sanf (1699).dae
+
+Building 1699 C:\Users\zengx\Desktop\all\sanf (1700).dae
+
+Building 1700 C:\Users\zengx\Desktop\all\sanf (1701).dae
+
+Building 1701 C:\Users\zengx\Desktop\all\sanf (1702).dae
+Error 100: Failed to find next point!
+Building 1702 C:\Users\zengx\Desktop\all\sanf (1703).dae
+
+Building 1703 C:\Users\zengx\Desktop\all\sanf (1704).dae
+
+Building 1704 C:\Users\zengx\Desktop\all\sanf (1705).dae
+
+Building 1705 C:\Users\zengx\Desktop\all\sanf (1706).dae
+
+Building 1706 C:\Users\zengx\Desktop\all\sanf (1707).dae
+
+Building 1707 C:\Users\zengx\Desktop\all\sanf (1708).dae
+
+Building 1708 C:\Users\zengx\Desktop\all\sanf (1709).dae
+
+Building 1709 C:\Users\zengx\Desktop\all\sanf (1710).dae
+
+Building 1710 C:\Users\zengx\Desktop\all\sanf (1711).dae
+
+Building 1711 C:\Users\zengx\Desktop\all\sanf (1712).dae
+
+Building 1712 C:\Users\zengx\Desktop\all\sanf (1713).dae
+
+Building 1713 C:\Users\zengx\Desktop\all\sanf (1714).dae
+Error 100: Failed to find next point!
+Building 1714 C:\Users\zengx\Desktop\all\sanf (1715).dae
+
+Building 1715 C:\Users\zengx\Desktop\all\sanf (1716).dae
+
+Building 1716 C:\Users\zengx\Desktop\all\sanf (1717).dae
+
+Building 1717 C:\Users\zengx\Desktop\all\sanf (1718).dae
+
+Building 1718 C:\Users\zengx\Desktop\all\sanf (1719).dae
+Error 100: Failed to find next point!
+Building 1719 C:\Users\zengx\Desktop\all\sanf (1720).dae
+
+Building 1720 C:\Users\zengx\Desktop\all\sanf (1721).dae
+
+Building 1721 C:\Users\zengx\Desktop\all\sanf (1722).dae
+
+Building 1722 C:\Users\zengx\Desktop\all\sanf (1723).dae
+
+Building 1723 C:\Users\zengx\Desktop\all\sanf (1724).dae
+
+Building 1724 C:\Users\zengx\Desktop\all\sanf (1725).dae
+
+Building 1725 C:\Users\zengx\Desktop\all\sanf (1726).dae
+
+Building 1726 C:\Users\zengx\Desktop\all\sanf (1727).dae
+
+Building 1727 C:\Users\zengx\Desktop\all\sanf (1728).dae
+
+Building 1728 C:\Users\zengx\Desktop\all\sanf (1729).dae
+
+Building 1729 C:\Users\zengx\Desktop\all\sanf (1730).dae
+
+Building 1730 C:\Users\zengx\Desktop\all\sanf (1731).dae
+
+Building 1731 C:\Users\zengx\Desktop\all\sanf (1732).dae
+
+Building 1732 C:\Users\zengx\Desktop\all\sanf (1733).dae
+
+Building 1733 C:\Users\zengx\Desktop\all\sanf (1734).dae
+Error 100: Failed to find next point!
+Building 1734 C:\Users\zengx\Desktop\all\sanf (1735).dae
+
+Building 1735 C:\Users\zengx\Desktop\all\sanf (1736).dae
+
+Building 1736 C:\Users\zengx\Desktop\all\sanf (1737).dae
+Error 100: Failed to find next point!
+Building 1737 C:\Users\zengx\Desktop\all\sanf (1738).dae
+
+Building 1738 C:\Users\zengx\Desktop\all\sanf (1739).dae
+
+Building 1739 C:\Users\zengx\Desktop\all\sanf (1740).dae
+
+Building 1740 C:\Users\zengx\Desktop\all\sanf (1741).dae
+
+Building 1741 C:\Users\zengx\Desktop\all\sanf (1742).dae
+Error 100: Failed to find next point!
+Building 1742 C:\Users\zengx\Desktop\all\sanf (1743).dae
+Error 100: Failed to find next point!
+Building 1743 C:\Users\zengx\Desktop\all\sanf (1744).dae
+
+Building 1744 C:\Users\zengx\Desktop\all\sanf (1745).dae
+Error 100: Failed to find next point!
+Building 1745 C:\Users\zengx\Desktop\all\sanf (1746).dae
+
+Building 1746 C:\Users\zengx\Desktop\all\sanf (1747).dae
+
+Building 1747 C:\Users\zengx\Desktop\all\sanf (1748).dae
+
+Building 1748 C:\Users\zengx\Desktop\all\sanf (1749).dae
+
+Building 1749 C:\Users\zengx\Desktop\all\sanf (1750).dae
+
+Building 1750 C:\Users\zengx\Desktop\all\sanf (1751).dae
+
+Building 1751 C:\Users\zengx\Desktop\all\sanf (1752).dae
+
+Building 1752 C:\Users\zengx\Desktop\all\sanf (1753).dae
+
+Building 1753 C:\Users\zengx\Desktop\all\sanf (1754).dae
+
+Building 1754 C:\Users\zengx\Desktop\all\sanf (1755).dae
+
+Building 1755 C:\Users\zengx\Desktop\all\sanf (1756).dae
+
+Building 1756 C:\Users\zengx\Desktop\all\sanf (1757).dae
+
+Building 1757 C:\Users\zengx\Desktop\all\sanf (1758).dae
+
+Building 1758 C:\Users\zengx\Desktop\all\sanf (1759).dae
+
+Building 1759 C:\Users\zengx\Desktop\all\sanf (1760).dae
+
+Building 1760 C:\Users\zengx\Desktop\all\sanf (1761).dae
+
+Building 1761 C:\Users\zengx\Desktop\all\sanf (1762).dae
+
+Building 1762 C:\Users\zengx\Desktop\all\sanf (1763).dae
+
+Building 1763 C:\Users\zengx\Desktop\all\sanf (1764).dae
+
+Building 1764 C:\Users\zengx\Desktop\all\sanf (1765).dae
+Error 100: Failed to find next point!
+Building 1765 C:\Users\zengx\Desktop\all\sanf (1766).dae
+
+Building 1766 C:\Users\zengx\Desktop\all\sanf (1767).dae
+
+Building 1767 C:\Users\zengx\Desktop\all\sanf (1768).dae
+
+Building 1768 C:\Users\zengx\Desktop\all\sanf (1769).dae
+
+Building 1769 C:\Users\zengx\Desktop\all\sanf (1770).dae
+
+Building 1770 C:\Users\zengx\Desktop\all\sanf (1771).dae
+
+Building 1771 C:\Users\zengx\Desktop\all\sanf (1772).dae
+
+Building 1772 C:\Users\zengx\Desktop\all\sanf (1773).dae
+
+Building 1773 C:\Users\zengx\Desktop\all\sanf (1774).dae
+
+Building 1774 C:\Users\zengx\Desktop\all\sanf (1775).dae
+
+Building 1775 C:\Users\zengx\Desktop\all\sanf (1776).dae
+
+Building 1776 C:\Users\zengx\Desktop\all\sanf (1777).dae
+
+Building 1777 C:\Users\zengx\Desktop\all\sanf (1778).dae
+
+Building 1778 C:\Users\zengx\Desktop\all\sanf (1779).dae
+
+Building 1779 C:\Users\zengx\Desktop\all\sanf (1780).dae
+
+Building 1780 C:\Users\zengx\Desktop\all\sanf (1781).dae
+
+Building 1781 C:\Users\zengx\Desktop\all\sanf (1782).dae
+
+Building 1782 C:\Users\zengx\Desktop\all\sanf (1783).dae
+
+Building 1783 C:\Users\zengx\Desktop\all\sanf (1784).dae
+
+Building 1784 C:\Users\zengx\Desktop\all\sanf (1785).dae
+
+Building 1785 C:\Users\zengx\Desktop\all\sanf (1786).dae
+
+Building 1786 C:\Users\zengx\Desktop\all\sanf (1787).dae
+
+Building 1787 C:\Users\zengx\Desktop\all\sanf (1788).dae
+
+Building 1788 C:\Users\zengx\Desktop\all\sanf (1789).dae
+
+Building 1789 C:\Users\zengx\Desktop\all\sanf (1790).dae
+
+Building 1790 C:\Users\zengx\Desktop\all\sanf (1791).dae
+
+Building 1791 C:\Users\zengx\Desktop\all\sanf (1792).dae
+
+Building 1792 C:\Users\zengx\Desktop\all\sanf (1793).dae
+
+Building 1793 C:\Users\zengx\Desktop\all\sanf (1794).dae
+
+Building 1794 C:\Users\zengx\Desktop\all\sanf (1795).dae
+
+Building 1795 C:\Users\zengx\Desktop\all\sanf (1796).dae
+
+Building 1796 C:\Users\zengx\Desktop\all\sanf (1797).dae
+
+Building 1797 C:\Users\zengx\Desktop\all\sanf (1798).dae
+
+Building 1798 C:\Users\zengx\Desktop\all\sanf (1799).dae
+
+Building 1799 C:\Users\zengx\Desktop\all\sanf (1800).dae
+
+Building 1800 C:\Users\zengx\Desktop\all\sanf (1801).dae
+
+Building 1801 C:\Users\zengx\Desktop\all\sanf (1802).dae
+
+Building 1802 C:\Users\zengx\Desktop\all\sanf (1803).dae
+
+Building 1803 C:\Users\zengx\Desktop\all\sanf (1804).dae
+
+Building 1804 C:\Users\zengx\Desktop\all\sanf (1805).dae
+
+Building 1805 C:\Users\zengx\Desktop\all\sanf (1806).dae
+
+Building 1806 C:\Users\zengx\Desktop\all\sanf (1807).dae
+
+Building 1807 C:\Users\zengx\Desktop\all\sanf (1808).dae
+
+Building 1808 C:\Users\zengx\Desktop\all\sanf (1809).dae
+
+Building 1809 C:\Users\zengx\Desktop\all\sanf (1810).dae
+
+Building 1810 C:\Users\zengx\Desktop\all\sanf (1811).dae
+
+Building 1811 C:\Users\zengx\Desktop\all\sanf (1812).dae
+
+Building 1812 C:\Users\zengx\Desktop\all\sanf (1813).dae
+
+Building 1813 C:\Users\zengx\Desktop\all\sanf (1814).dae
+
+Building 1814 C:\Users\zengx\Desktop\all\sanf (1815).dae
+
+Building 1815 C:\Users\zengx\Desktop\all\sanf (1816).dae
+
+Building 1816 C:\Users\zengx\Desktop\all\sanf (1817).dae
+
+Building 1817 C:\Users\zengx\Desktop\all\sanf (1818).dae
+
+Building 1818 C:\Users\zengx\Desktop\all\sanf (1819).dae
+
+Building 1819 C:\Users\zengx\Desktop\all\sanf (1820).dae
+
+Building 1820 C:\Users\zengx\Desktop\all\sanf (1821).dae
+
+Building 1821 C:\Users\zengx\Desktop\all\sanf (1822).dae
+
+Building 1822 C:\Users\zengx\Desktop\all\sanf (1823).dae
+
+Building 1823 C:\Users\zengx\Desktop\all\sanf (1824).dae
+
+Building 1824 C:\Users\zengx\Desktop\all\sanf (1825).dae
+
+Building 1825 C:\Users\zengx\Desktop\all\sanf (1826).dae
+
+Building 1826 C:\Users\zengx\Desktop\all\sanf (1827).dae
+
+Building 1827 C:\Users\zengx\Desktop\all\sanf (1828).dae
+
+Building 1828 C:\Users\zengx\Desktop\all\sanf (1829).dae
+
+Building 1829 C:\Users\zengx\Desktop\all\sanf (1830).dae
+
+Building 1830 C:\Users\zengx\Desktop\all\sanf (1831).dae
+
+Building 1831 C:\Users\zengx\Desktop\all\sanf (1832).dae
+
+Building 1832 C:\Users\zengx\Desktop\all\sanf (1833).dae
+
+Building 1833 C:\Users\zengx\Desktop\all\sanf (1834).dae
+
+Building 1834 C:\Users\zengx\Desktop\all\sanf (1835).dae
+
+Building 1835 C:\Users\zengx\Desktop\all\sanf (1836).dae
+
+Building 1836 C:\Users\zengx\Desktop\all\sanf (1837).dae
+
+Building 1837 C:\Users\zengx\Desktop\all\sanf (1838).dae
+
+Building 1838 C:\Users\zengx\Desktop\all\sanf (1839).dae
+
+Building 1839 C:\Users\zengx\Desktop\all\sanf (1840).dae
+
+Building 1840 C:\Users\zengx\Desktop\all\sanf (1841).dae
+
+Building 1841 C:\Users\zengx\Desktop\all\sanf (1842).dae
+
+Building 1842 C:\Users\zengx\Desktop\all\sanf (1843).dae
+
+Building 1843 C:\Users\zengx\Desktop\all\sanf (1844).dae
+
+Building 1844 C:\Users\zengx\Desktop\all\sanf (1845).dae
+
+Building 1845 C:\Users\zengx\Desktop\all\sanf (1846).dae
+
+Building 1846 C:\Users\zengx\Desktop\all\sanf (1847).dae
+
+Building 1847 C:\Users\zengx\Desktop\all\sanf (1848).dae
+
+Building 1848 C:\Users\zengx\Desktop\all\sanf (1849).dae
+
+Building 1849 C:\Users\zengx\Desktop\all\sanf (1850).dae
+
+Building 1850 C:\Users\zengx\Desktop\all\sanf (1851).dae
+
+Building 1851 C:\Users\zengx\Desktop\all\sanf (1852).dae
+
+Building 1852 C:\Users\zengx\Desktop\all\sanf (1853).dae
+
+Building 1853 C:\Users\zengx\Desktop\all\sanf (1854).dae
+
+Building 1854 C:\Users\zengx\Desktop\all\sanf (1855).dae
+
+Building 1855 C:\Users\zengx\Desktop\all\sanf (1856).dae
+
+Building 1856 C:\Users\zengx\Desktop\all\sanf (1857).dae
+Error 101: Too few intersection points!
+Building 1857 C:\Users\zengx\Desktop\all\sanf (1858).dae
+Error 101: Too few intersection points!
+Building 1858 C:\Users\zengx\Desktop\all\sanf (1859).dae
+
+Building 1859 C:\Users\zengx\Desktop\all\sanf (1860).dae
+Done!

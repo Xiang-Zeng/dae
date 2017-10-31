@@ -1,7 +1,9 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
 
+list.txt
 results/
+models/
 *~
 *.autosave
 *.a

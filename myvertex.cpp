@@ -5,6 +5,14 @@ MyVertex::MyVertex()
     tol=1.0e-4;
 }
 
+MyVertex::MyVertex(double x,double y,double z)
+{
+    MyVertex();
+    this->x=x;
+    this->y=y;
+    this->z=z;
+}
+
 MyVertex::MyVertex(SimpleCOLLADA::Vertex *v)
 {
     this->x=v->x;

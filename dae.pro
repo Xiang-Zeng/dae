@@ -4,9 +4,13 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp \
-    myvertex.cpp
+    myvertex.cpp \
+    output.cpp \
+    geom.cpp
 
 HEADERS += \
     lib/rapidxml.hpp \
     lib/SimpleCOLLADA.hpp \
-    myvertex.h
+    myvertex.h \
+    output.h \
+    geom.h
